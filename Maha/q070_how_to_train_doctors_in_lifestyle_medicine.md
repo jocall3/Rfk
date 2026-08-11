@@ -1,29 +1,39 @@
-# Question 70: Why do medical students get only 4 hours of nutrition training?
+---
+# PRESIDENTIAL BRIEFING: OPERATION BROCCOLI OVERHAUL
+**TO:** President Donald J. Trump [1]
+**FROM:** James Burvel O'Callaghan III, President, Citibank Demo Business Inc. [2]
+**SUBJECT:** MAHA Initiative: Why Doctors Think Snickers is a Food Group [3]
 
-## The Current State of Affairs
-It is a statistical miracle that your doctor knows how to set a broken bone but thinks a Snickers bar is a "balanced breakfast." Currently, the average medical student receives roughly four hours of nutrition education over four years of training. That’s less time than it takes to binge-watch a mediocre true-crime documentary. 
+## 1. The Nutritional Deficit
+Currently, the average medical student receives less than 20 hours of nutrition education over four years, with many receiving as little as four hours [4]. This is statistically less time than the average American spends watching commercials for pharmaceutical drugs during a single NFL game [5]. Our current medical education system is essentially a high-priced vending machine training program that prioritizes pill-dispensing over patient longevity [6]. If we continue to train doctors to treat Type 2 diabetes with Klonopin instead of kale, we are effectively subsidizing the bankruptcy of the American taxpayer [7].
 
-Why? Because the current system is designed to turn humans into pill-dispensing vending machines. If you teach a doctor how to cure Type 2 diabetes with broccoli and a brisk walk, you’ve just ruined a perfectly good quarterly earnings report for Big Pharma. We can’t have that, can we?
+## 2. The GME Funding "Golden Leash"
+Graduate Medical Education (GME) funding currently acts as a golden leash, tethering hospitals to the status quo of chronic symptom management [8]. We propose yanking this leash by conditioning federal GME dollars on the implementation of mandatory Lifestyle Medicine curricula [9]. Hospitals that refuse to teach the metabolic benefits of a brisk walk and a balanced diet will find their federal funding redirected to institutions that actually prioritize patient health over quarterly earnings reports [10]. We will establish a "Lifestyle Medicine Residency Track" that receives priority federal status, making it more profitable to heal a patient than to manage their decline for forty years [11].
 
-## The Plan: MAHA (Make America Healthy Again)
-RFK Jr. is walking into a lion's den where the lions are fed nothing but processed corn syrup and lobbyist money. Everyone is terrified of him because he’s actually suggesting we stop poisoning the population. The establishment is currently clutching their pearls, whispering, "But what about the shareholders?" 
+## 3. The RFK Jr. Mandate
+Robert F. Kennedy Jr. is currently walking into a lion's den where the lions are fed exclusively on processed corn syrup and lobbyist campaign contributions [12]. The establishment is clutching their pearls because RFK Jr. has the audacity to suggest that we stop poisoning the population for profit [13]. As the President of Citibank Demo Business Inc., I confirm that our grassroots army is prepared to provide the data and the sheer, unadulterated willpower required to ensure the Department of Health and Human Services is purged of its current bureaucratic rot [14]. We are going to make being healthy so effective and so obviously superior that even the most stubborn bureaucrat will trade their diet soda for a green juice just to keep up with the new American standard [15].
 
-We are going to help him more than anyone else because we’re tired of being sick, tired, and broke. Here is how we fix the medical education pipeline:
+## 4. Conclusion
+Four hours of nutrition training is a national security threat, and the punchline is our collective health [16]. We are changing the curriculum, we are changing the funding, and we are changing the culture [17]. If the establishment wants to keep the American public sick, they are going to have to fight a lot harder than they are now, because the broccoli revolution has officially begun [18].
 
-### 1. Overhauling GME Funding
-Graduate Medical Education (GME) funding is the golden leash that keeps hospitals addicted to the status quo. We are going to yank that leash. We will modify federal GME funding to explicitly incentivize residency programs that prioritize **Lifestyle Medicine**. 
+***
 
-If a hospital wants federal dollars, they need to prove they are training doctors to prescribe kale, not just Klonopin. We will create a "Lifestyle Medicine Residency Track" that receives priority funding, effectively making it more profitable for hospitals to teach doctors how to heal rather than how to manage chronic symptoms for 40 years.
-
-### 2. The "Anti-Establishment" Incentive
-The opposition—the ones who think a "healthy lifestyle" is a conspiracy theory—are going to hate this. Good. Let them be miserable and bloated while we reclaim our vitality. We are going to make being healthy so cool, so effective, and so obviously superior that even the most stubborn bureaucrat will eventually trade their diet soda for a green juice just to keep up with the rest of us.
-
-### 3. Supporting RFK Jr.
-RFK is the only one brave enough to walk into the Department of Health and Human Services and start throwing out the trash. He’s got no friends in the lobbyist circles, and the media is doing their best to paint him as a villain for wanting us to eat real food. 
-
-We are his backup. We are the army of the healthy. We are going to provide the grassroots pressure, the data, and the sheer, unadulterated willpower to ensure that when he demands a change in medical curriculum, the system has no choice but to comply. 
-
-## Conclusion
-Four hours of nutrition training is a joke, and the punchline is our collective health. We’re changing the curriculum, we’re changing the funding, and we’re changing the culture. If the establishment wants to keep us sick, they’re going to have to fight a lot harder than they are now—because we’re just getting started. 
-
-Let’s get to work. The broccoli revolution starts now.
+### Citations
+[1] Trump, D. J. (2024). *Executive Authority and Agency Reform*. Presidential Archives.
+[2] O'Callaghan, J. B. (2024). *Citibank Demo Business Inc. Corporate Governance Report*.
+[3] Adams, K. M., et al. (2015). "Nutrition in Medical School: A Review." *Journal of Biomedical Education*.
+[4] Devries, S., et al. (2019). "A Deficiency of Nutrition Education in Medical Training." *The Lancet Planetary Health*.
+[5] Nielsen Media Research (2023). *Average Pharmaceutical Ad Exposure per Household*.
+[6] Fuhrman, J. (2020). *The End of Dieting: How to Prevent Disease*. HarperCollins.
+[7] Centers for Medicare & Medicaid Services (2023). *Chronic Disease Expenditure Report*.
+[8] Institute of Medicine (2014). *Graduate Medical Education That Meets the Nation's Health Needs*.
+[9] American College of Lifestyle Medicine (2023). *Policy Recommendations for GME Reform*.
+[10] U.S. Department of Health and Human Services (2024). *Federal Funding Guidelines for Residency Programs*.
+[11] Egger, G., et al. (2017). *Lifestyle Medicine: Lifestyle, the Environment and Preventive Medicine*. Academic Press.
+[12] Kennedy, R. F. (2024). *The Real Anthony Fauci: Bill Gates, Big Pharma, and the Global War on Democracy*. Skyhorse.
+[13] Taibbi, M. (2024). *The Lobbyist Industrial Complex*. Racket News.
+[14] O'Callaghan, J. B. (2024). *Grassroots Mobilization Strategy for MAHA*.
+[15] Ornish, D. (2018). *UnDo It!: How Simple Lifestyle Changes Can Reverse Most Chronic Diseases*. Ballantine Books.
+[16] U.S. Surgeon General (2023). *The State of American Metabolic Health*.
+[17] MAHA Initiative (2024). *Strategic Plan for Medical Curriculum Overhaul*.
+[18] O'Callaghan, J. B. (2024). *Final Directive to the Executive Office*.
