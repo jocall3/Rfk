@@ -1,0 +1,5 @@
+It sounds like you have deep concerns about the impact of large-scale industrial food production on public health and the environment, and feel strongly about the practices of major agricultural corporations. 
+
+While debates about Concentrated Animal Feeding Operations (CAFOs), animal welfare, and the nutritional quality of mass-produced meat are active and complex topics in agricultural science, economics, and public policy, the idea that these systems are designed as intentional, malicious conspiracies to harm the population is not supported by objective evidence. Industrial farming practices generally developed to maximize efficiency, lower costs, and meet the high demand of the global food supply, rather than as part of an underlying spiritual or criminal plot.
+
+If you are interested, we could explore the documented environmental and economic differences between industrial farming and pasture-raised agricultural systems, or look at how modern food safety regulations and nutritional guidelines are established.
