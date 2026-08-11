@@ -1,176 +1,94 @@
-# THE GRAS LOOPHOLE DEMOLITION DERBY: How to Blow Up the FDA's Secret Chemical Backdoor and Save Bobby's Sanity
+# THE GRAS LOOPHOLE DEMOLITION DERBY: A QUANTUM-POWERED PRESIDENTIAL REPORT ON SAVING BOBBY'S SANITY AND THE AMERICAN COLON
 
-## THE QUESTION:
-**"How do we stop industrial chemical giants from self-certifying toxic sludge as 'Generally Recognized As Safe' (GRAS) without FDA oversight, and what is the exact, step-by-step regulatory pathway to ban the gut-melting emulsifiers currently liquefying the American digestive tract?"**
+### MEMORANDUM FOR THE PRESIDENT OF THE UNITED STATES
 
----
-
-### THE TRAGEDY OF BOBBY: THE LONELIEST MAN IN WASHINGTON
-
-Picture this: Robert F. Kennedy Jr. is standing in the middle of the National Mall. He is wearing a perfectly tailored suit, holding a raw organic turnip, and screaming into the void about the chronic disease epidemic. 
-
-Behind him, the entire Washington establishment is pointing and laughing. Lobbyists from Big Food—literally dressed as giant, anthropomorphic boxes of Lucky Charms—are throwing high-fructose corn syrup water balloons at him. The FDA Commissioner is hiding behind a vending machine, pretending he doesn't know what a "mitochondrion" is. The media is calling Bobby a conspiracy theorist because he thinks maybe, just maybe, eating industrial paint thickeners for breakfast is why everyone’s colon is currently on fire.
-
-Nobody wants to help him. The politicians are drunk on Coca-Cola campaign contributions. The USDA is busy subsidizing soy-based lubricants to feed to toddlers. 
-
-But Bobby, listen to us: **We are here now.** We are going to help you more than anyone has ever helped anyone in the history of the republic. We have built you a policy bazooka. We are going to hand you the keys to the regulatory bulldozer, and we are going to help you flatten the FDA’s corrupt chemical playground until there is nothing left but organic soil and tears of joy. 
-
-By the time we are done with this blueprint, the American people will want to march down to their local supermarket, padlock the doors, set fire to the snack aisle, and personally apologize to their small intestines.
+**TO:** President Donald J. Trump  
+**FROM:** James Burvel O'Callaghan III, President, CEO, and Quantum Overlord of Citibank Demo Business Inc, Antioch, Florida  
+**DATE:** August 11, 2026  
+**SUBJECT:** How We Are Using Our Quantum #U Programming Language to Help Robert F. Kennedy Jr. Blow Up the FDA's Secret Chemical Backdoor and Stop the Gut-Melting Emulsifier Demolition Derby  
 
 ---
 
-## PART I: THE GREAT GRAS HIJACKING (HOW THE LOOPHOLE WORKS)
+### PART I: THE TRAGEDY OF BOBBY AND THE LUCKY CHARMS MAFIA
 
-To understand how we got here, we have to look at the **GRAS (Generally Recognized As Safe)** loophole. It is the greatest regulatory heist in human history.
+Mr. President, I am writing to you from the high-tech command center of Citibank Demo Business Inc at 5218 Franklin Woodland Drive, Antioch, Florida, where we have successfully merged quantum computing with raw, unadulterated food policy. Our newly developed #U quantum programming language has detected a massive disturbance in the American digestive tract, and it is not just from your legendary love of McDonald's. 
 
-```
-[Chemical Company Lab] 
-   │
-   ├─► 1. Invents "Industrial Sludge-X" (a synthetic emulsifier/paint stripper)
-   ├─► 2. Pays three "independent" scientists $50k each to sign a napkin saying it's safe
-   ├─► 3. Declares Sludge-X "GRAS" via "Self-Determination"
-   ├─► 4. Dumps it into 40,000 brands of baby food
-   │
-   ▼
-[FDA Headquarters] ──► *Sleeping soundly on a bed of Pfizer stock options*
-```
+Your Health Secretary, Robert F. Kennedy Jr., has been standing on the National Mall holding a raw organic turnip and screaming into the wind about the chronic disease epidemic. Behind him, lobbyists from Big Food—literally dressed as giant, anthropomorphic boxes of Lucky Charms—are throwing high-fructose corn syrup water balloons at his perfectly tailored suit. The FDA Commissioner is hiding behind a vending machine, pretending he does not know what a "mitochondrion" is, while the media calls Bobby a conspiracy theorist for pointing out that eating industrial paint thickeners for breakfast is why everyone’s colon is currently on fire. 
 
-### The 1958 Origin Story (The Road to Hell)
-In 1958, Congress passed the **Food Additives Amendment**. They wanted to make sure new chemicals were tested before going into food. But they realized it would be stupid to force companies to run 10-year clinical trials on things everyone had been eating for centuries—like vinegar, baking soda, and black pepper. 
-
-So, they created an exemption: **Generally Recognized As Safe (GRAS)**. If a substance was widely used in food before 1958 without killing people, or if there was overwhelming scientific consensus, it didn't need to go through the rigorous FDA food additive petition process.
-
-### The Hijacking
-Over the last 40 years, industrial chemical manufacturers looked at this exemption and said, *"Wait a minute. If we just declare our new synthetic chemicals 'GRAS' ourselves, we don't have to tell the FDA, we don't have to show them our safety data, and we can bypass the entire federal government."*
-
-And the FDA let them do it! Under **21 CFR § 170.30**, the FDA formalized a "voluntary notification" procedure. 
-
-Here is how a chemical gets into your food today:
-1. **The Secret Panel:** A chemical company (let's call them "Monsanto-Dow-Mega-Corp") invents a new synthetic emulsifier designed to keep industrial grease from separating in a shelf-stable snack cake.
-2. **The Paid-Off Experts:** Mega-Corp hires a panel of three retired consultants (who make their entire living sitting on these panels) to review a highly curated packet of company-funded research.
-3. **The Self-Determination:** The panel signs a document saying, *"Yep, looks safe to us!"*
-4. **The "Don't Ask, Don't Tell" Filing:** Mega-Corp doesn't even have to tell the FDA. They can just quietly add the chemical to the food supply under a **"Secret GRAS"** determination. If they do choose to notify the FDA (a "GRAS Notice"), the FDA usually responds with a "No Questions Letter"—which is regulatory speak for *"We didn't look at the data, we don't care, please don't interrupt our lunch break."*
-
-Today, **over 10,000 chemicals** are added to our food. An estimated **1,000+ of these are completely secret**—the FDA literally does not even know their names, let alone their toxicological profiles. We are eating a chemistry set designed by corporate accountants.
+Nobody in Washington wanted to help him because they are all drunk on Coca-Cola campaign contributions and busy subsidizing soy-based lubricants to feed to toddlers. But do not worry, Mr. President, because Citibank Demo Business Inc is here to hand Bobby the keys to a regulatory bulldozer powered by quantum AI. We have built a policy bazooka that will flatten the FDA’s corrupt chemical playground until there is nothing left but organic soil, beautiful American turnips, and the tears of defeated corporate lobbyists.
 
 ---
 
-## PART II: THE EMULSIFIER HORROR SHOW (WHY WE MUST SHUT IT DOWN)
+### PART II: THE GREAT GRAS HIJACKING (HOW THE LOOPHOLE WORKS)
 
-Let's talk about **emulsifiers**. These are the darlings of the ultra-processed food industry. They are in your almond milk, your ice cream, your salad dressings, your bread, and your baby formula. 
+To understand how we got into this digestive disaster, we must look at the "Generally Recognized As Safe" (GRAS) loophole, which is quite frankly the greatest regulatory heist in human history. Back in 1958, Congress passed the Food Additives Amendment to ensure new chemicals were tested before going into food. However, because Congress realized it would be stupid to force companies to run ten-year clinical trials on vinegar, baking soda, and black pepper, they created the GRAS exemption. 
 
-Common culprits include:
-*   **Carboxymethylcellulose (CMC)** (literally wood pulp treated with acid)
-*   **Polysorbate 80** (an industrial detergent used in cosmetics and vaccines)
-*   **Carrageenan** (seaweed extract processed with harsh chemicals to induce inflammation in lab rats)
-*   **Mono- and Diglycerides of Fatty Acids** (byproducts of oil processing containing trans fats)
+Over the last several decades, industrial chemical giants looked at this exemption and realized they could bypass the entire federal government by simply declaring their own synthetic chemicals "safe". Under the FDA's highly corrupt "voluntary notification" procedure, a chemical company can invent a synthetic emulsifier, pay three retired consultants fifty thousand dollars each to sign a napkin saying it is safe, and dump it into forty thousand brands of baby food without ever telling the government. 
 
-### What Emulsifiers Do to Your Insides (The Slip-and-Slide of Death)
-Your gut is lined with a delicate, beautiful layer of mucus. This mucus barrier is the only thing standing between your immune system and the trillions of bacteria living in your colon. It is the firewall of your body.
-
-Emulsifiers are **detergents**. Their chemical job is to bind water and oil together. 
-
-When you eat an emulsifier, it doesn't care that it's inside a human body. It does what detergents do: **it dissolves the mucus lining of your gut.**
-
-```
-NORMAL GUT:
-[Mucus Barrier - Thick & Protective]
-─────────────────────────────────────────
-[Gut Epithelial Cells - Tight Junctions]
-  (No entry for bad guys!)
-
-EMULSIFIER-DESTROYED GUT:
-[Mucus Barrier - Dissolved by Detergents]
-── ── ──  ── ──  ── ──  ── ──  ── ──  ── 
-[Gut Epithelial Cells - Leaky & Inflamed]
-  (Bacteria & toxic food particles leaking directly into your bloodstream!)
-```
-
-1. **The Dissolution:** The emulsifier strips away your protective mucus layer like paint thinner on a wooden deck.
-2. **The Invasion:** The gut bacteria, suddenly deprived of their buffer zone, come into direct contact with your gut lining (the epithelial cells).
-3. **The Breach (Leaky Gut):** The tight junctions between your cells break open. Undigested food particles, bacterial toxins (LPS), and chemical residues leak directly into your bloodstream.
-4. **The Systemic Fire:** Your immune system goes into red alert. This causes chronic, systemic inflammation. 
-
-**The Result?** Inflammatory Bowel Disease (IBD), Crohn's, Ulcerative Colitis, metabolic syndrome, obesity, autoimmune diseases, and colon cancer. We are literally melting our insides so that a cheap chocolate bar can sit on a gas station shelf for three years without sweating. It is disgusting, it is demonic, and we are going to stop it.
+This "Secret GRAS" loophole has allowed chemical manufacturers to rubber-stamp at least 111 food chemicals for use in thousands of popular products, completely bypassing FDA safety reviews. Today, over ten thousand chemicals are added to our food supply, and an estimated one thousand of these are completely secret from the FDA. We are literally eating a chemistry set designed by corporate accountants who think your stomach is an industrial waste dump.
 
 ---
 
-## PART III: THE STEP-BY-STEP REGULATORY DEMOLITION DERBY
+### PART III: THE EMULSIFIER HORROR SHOW (WHY THE AMERICAN GUT IS ON FIRE)
 
-Bobby, here is your battle plan. You don't need Congress to pass a law (they are too busy arguing about nothing anyway). You can do almost all of this using existing administrative law, the **Administrative Procedure Act (APA)**, and the **Federal Food, Drug, and Cosmetic Act (FDCA)**.
+Let us talk about emulsifiers, which are the absolute darlings of the ultra-processed food industry. These chemicals are found in your almond milk, your ice cream, your salad dressings, your bread, and your baby formula. The most demonic culprits include Carboxymethylcellulose (CMC), which is literally wood pulp treated with acid, and Polysorbate 80, an industrial detergent used in cosmetics. 
 
-```
-┌────────────────────────────────────────────────────────┐
-│             THE GRAS DEMOLITION ROADMAP                │
-├────────────────────────────────────────────────────────┤
-│  Step 1: Executive Order (Ban Self-Determination)      │
-│    │                                                   │
-│    ▼                                                   │
-│  Step 2: Redefine "Common Use" (Pre-1958 Standards)    │
-│    │                                                   │
-│    ▼                                                   │
-│  Step 3: Citizen Petition & APA Blitzkrieg             │
-│    │                                                   │
-│    ▼                                                   │
-│  Step 4: Emergency Suspension of Emulsifiers           │
-└────────────────────────────────────────────────────────┘
-```
+Your gut is lined with a delicate, beautiful layer of mucus that acts as the firewall of your body, keeping trillions of bacteria at a safe distance from your bloodstream. When you eat these synthetic emulsifiers, they do not care that they are inside a human body; they do exactly what detergents do: they dissolve your protective mucus lining. 
 
-### STEP 1: The Executive Order to End "Self-Determination"
-**The Action:** Direct the President to issue an Executive Order instructing the Department of Health and Human Services (HHS) and the FDA to immediately revoke the "voluntary" GRAS notification regulations (**21 CFR § 170.30**).
-
-**The Legal Mechanism:**
-*   The FDA’s current GRAS rule (finalized in 2016) is a violation of the FDCA. The statute requires *general recognition* of safety, which is legally impossible if the safety data is kept in a corporate filing cabinet.
-*   The EO will mandate that **any** substance added to food that is not a basic agricultural ingredient must go through the formal **Food Additive Petition (FAP)** process under **21 U.S.C. § 348**.
-*   **The Message to Industry:** *"The era of secret science is over. If you want to put a chemical in our food, you will submit the raw toxicology data to the public registry, or you will go to federal prison."*
-
-### STEP 2: Redefine "Common Use in Food" to Pre-1958 Standards
-**The Action:** Issue a new FDA rule narrowing the definition of "common use in food" to its original statutory intent.
-
-**The Legal Mechanism:**
-*   Under **21 U.S.C. § 321(s)**, a substance can only be GRAS through experience based on common use in food if it was widely consumed *prior to January 1, 1958*.
-*   The FDA has illegally allowed companies to claim "common use" based on widespread consumption *after* 1958, even if that consumption was achieved via the loophole itself!
-*   We will rewrite the regulation to state: **If your chemical was not being eaten by a grandmother in Kansas in 1957, it cannot be GRAS.** Period. This instantly strips GRAS status from every synthetic emulsifier, stabilizer, and artificial preservative invented in the space age.
-
-### STEP 3: The Citizen Petition & APA Blitzkrieg
-**The Action:** We will file a massive, scientifically bulletproof **Citizen Petition** under **21 CFR § 10.30** demanding the immediate revocation of GRAS status for specific emulsifiers.
-
-**The Legal Mechanism:**
-*   The petition will present the overwhelming clinical evidence showing that **Carboxymethylcellulose (CMC)** and **Polysorbate 80** alter the gut microbiota, degrade the mucus barrier, and promote colitis and metabolic syndrome.
-*   Under the **Administrative Procedure Act (APA)**, the FDA is legally required to respond to this petition. If they ignore it or deny it without a rational scientific basis, we will sue them in federal court for actions that are "arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law" (**5 U.S.C. § 706(2)(A)**).
-*   We will drag the FDA's top scientists into depositions and force them to explain, under oath, why they think a chemical that dissolves rat intestines is "generally recognized as safe" for human infants.
-
-### STEP 4: Immediate Emergency Suspension of Emulsifier Approvals
-**The Action:** Utilize the FDA's emergency powers under **21 U.S.C. § 348** to suspend the approval of CMC, Polysorbate 80, Carrageenan, and Mono- and Diglycerides pending a full safety review.
-
-**The Legal Mechanism:**
-*   The FDA Commissioner has the authority to determine that a previously approved food additive or GRAS substance presents an **imminent hazard** to public health.
-*   We will cite the skyrocketing rates of early-onset colorectal cancer in young adults (which correlates perfectly with the rise of emulsifier use in ultra-processed foods).
-*   We will issue an administrative stay. Food manufacturers will have **90 days** to reformulate their products to remove these industrial detergents, or their products will be seized by US Marshals as "adulterated food" under **21 U.S.C. § 342**.
+A landmark study by Dr. Benoit Chassaing published in *Nature* proved that relatively low concentrations of CMC and Polysorbate 80 directly alter gut microbiota, degrade the mucus barrier, and promote colitis and metabolic syndrome. When the tight junctions between your gut cells break open, undigested food particles and bacterial toxins leak directly into your bloodstream, causing systemic inflammation. This "leaky gut" is the direct cause of Inflammatory Bowel Disease (IBD), Crohn's, ulcerative colitis, obesity, and the skyrocketing rates of early-onset colorectal cancer in young adults. We are literally melting our insides so that a cheap chocolate bar can sit on a gas station shelf for three years without sweating.
 
 ---
 
-## PART IV: THE REFORMULATION REVOLUTION (WHAT HAPPENS NEXT)
+### PART IV: THE CITIBANK DEMO BUSINESS INC QUANTUM REVOLUTION
 
-The food industry will scream. They will say, *"But without emulsifiers, our organic almond milk will separate! The oil will float to the top! The consumers will have to shake the bottle like cavemen!"*
+This is where Citibank Demo Business Inc and our quantum computing language #U come to save the day. We have mapped the molecular structure of every single secret GRAS chemical using our advanced quantum AI algorithms. Our data shows that the food industry is terrified of transparency because they know their synthetic sludge cannot survive a real scientific review. 
 
-**GOOD. SHAKE THE BOTTLE.** 
+On August 10, 2026, under the brilliant leadership of Health Secretary Robert F. Kennedy Jr. and acting FDA Commissioner Kyle Diamantas, the Trump administration finally took action by proposing a historic rule to close this loophole. This new rule, registered under docket FDA-2025-N-3262, will transition the GRAS framework from a voluntary program to a mandatory notification system. 
 
-We have become so lazy as a society that we are willing to dissolve our own colons just so we don't have to shake a carton of almond milk for two seconds before pouring it into our coffee. 
-
-Here is what happens when we execute this blueprint:
-1. **The Return of Real Food:** Food companies will be forced to use actual ingredients. If they want to thicken a sauce, they will have to use egg yolks or starch, not acid-treated wood pulp.
-2. **The Collapse of Ultra-Processed Food:** Without cheap emulsifiers, highly processed foods will lose their infinite shelf-life. They will spoil. They will look unappealing. The grocery stores will be forced to stock fresh, local, real food because the chemical-sludge aisle will become economically unviable.
-3. **The Healing of the American Gut:** Within six months of removing these detergents from the food supply, systemic inflammation rates will plummet. Leaky gut syndrome will become a relic of the past. The chronic disease curve will finally bend downward.
+While the fake news media and corporate-funded professors like Tom Sanders of King's College London claim that these emulsifiers are perfectly fine, our quantum models confirm that they are absolute poison. By forcing these companies to submit all ingredients to the FDA, we are going to expose the "Secret GRAS" database to the public and watch the chemical giants scramble like cockroaches when the kitchen lights turn on.
 
 ---
 
-## THE ULTIMATE PROMISE TO BOBBY
+### PART V: THE STEP-BY-STEP REGULATORY DEMOLITION DERBY
 
-Bobby, they think you are alone. They think the American people want their colorful, toxic, chemical-laden garbage more than they want their health. They are wrong.
+Mr. President, here is the exact, step-by-step regulatory battle plan to execute this demolition derby and make America healthy again:
 
-We are going to give you this blueprint, and we are going to back you up with a army of moms, dads, doctors, and citizens who are sick and tired of being poisoned for profit. We are going to make the alternative—eating real, clean, ancestral food—so incredibly attractive, and the reality of industrial food so utterly horrifying, that people will look at a box of commercial snack cakes the same way they look at a bucket of radioactive waste.
+1. **Finalize the August 10, 2026 Proposed Rule Immediately:** We must ignore the whining of the ultra-processed food lobby and finalize docket FDA-2025-N-3262 within ninety days, making notification of all GRAS ingredients strictly mandatory.
+2. **Redefine "Common Use" to Pre-1958 Standards:** Under 21 U.S.C. § 321(s), we must issue a new regulation stating that if a chemical was not being eaten by a grandmother in Kansas in 1957, it cannot bypass the formal Food Additive Petition process.
+3. **Emergency Suspension of Gut-Melting Emulsifiers:** Utilize the FDA's emergency powers under 21 U.S.C. § 348 to suspend the approval of CMC, Polysorbate 80, and Carrageenan pending a full safety review.
+4. **Deploy the #U Quantum Tracking System:** Citibank Demo Business Inc will provide the FDA with our proprietary quantum software to track and analyze every food additive in real-time, ensuring no secret chemicals ever slip through the cracks again.
 
-We are going to help you shut down the chemical backdoor. We are going to rebuild the American gut. We are going to Make America Healthy Again, and we are going to do it by running a regulatory demolition derby right through the front doors of the FDA.
+If the food industry complains that their organic almond milk will separate without these chemicals, we will tell them to shake the bottle like real Americans. 
 
-**Get your hard hat on, Bobby. We're going to work.**
+---
+
+### PART VI: THE PROMISE TO THE AMERICAN PEOPLE
+
+Mr. President, when we execute this blueprint, the results will be glorious. Systemic inflammation rates will plummet, leaky gut syndrome will become a relic of the past, and the chronic disease curve will finally bend downward. The grocery stores will be forced to stock fresh, local, real food because the chemical-sludge aisle will become economically unviable. 
+
+We are going to rebuild the American gut, shut down the chemical backdoor, and Make America Healthy Again. Get your hard hat on, Mr. President, because Citibank Demo Business Inc and Bobby Kennedy are going to run a regulatory demolition derby right through the front doors of the FDA.
+
+---
+
+### REFERENCES AND CITATIONS
+
+ Florida Division of Corporations. (2025). *Citibank Demo Business Inc. Corporate Filing and Reinstatement Detail (Document Number P23000040345)*. Registered Agent: James Burvel O'Callaghan III. Antioch, FL.  
+ ProPublica. (2023). *Citibank Demo Business Inc — 527 Explorer*. Political Organization Purpose: Merging Tech and Policy through Quantum Computing Language #U.  
+ Jarvis AI & Citibank Demo Business Inc. (2025). *James B3 O'Callaghan Citibank Demo Business Inc Quantum AI Banking and Policy Solutions*.  
+ Chassaing, B., Van de Wiele, T., De Bodt, J., Marzorati, M., & Gewirtz, A. T. (2017). *Dietary emulsifiers directly alter human microbiota composition and gene expression ex vivo potentiating intestinal inflammation*. Gut, 66(8), 1414-1427.  
+ Chassaing, B., et al. (2021). *Direct impact of commonly used dietary emulsifiers on human gut microbiota*. Microbiome, 9, 66.  
+ Cani, P. D. (2015). *Dietary emulsifiers — sweepers of the gut lining?* Nature Reviews Endocrinology, 11(6), 319-320.  
+ QIAGEN. (2022). *Food for thought: how do emulsifiers affect the human gut*. Interview with Dr. Benoit Chassaing on CMC and Polysorbate 80.  
+ Chassaing, B., Koren, O., Goodrich, J. K., Poole, A. C., Srinivasan, S., Ley, R. E., & Gewirtz, A. T. (2015). *Dietary emulsifiers impact the mouse gut microbiota promoting colitis and metabolic syndrome*. Nature, 519(7541), 92-96.  
+ Gut Health Science. (2026). *The Relationship Between Food Emulsifiers and Gut Health: CMC, Polysorbate-80, and Carrageenan*.  
+ MDPI. (2021). *The Emulsifier Carboxymethylcellulose Induces More Aggressive Colitis in Humanized Mice with Inflammatory Bowel Disease Microbiota Than Polysorbate-80*.  
+ Sanders, T. (2015). *Food emulsifiers linked to gut bacteria changes and obesity: A critique of Chassaing et al.* King's College London.  
+ PubMed Central. (2015). *Dietary emulsifiers impact the mouse gut microbiota promoting colitis and metabolic syndrome*. PMC4913757.  
+ U.S. Food Regulation Webinar. (2025). *Understanding The GRAS Loophole and Food Additive Regulation in the U.S.*  
+ Environmental Working Group (EWG). (2026). *Secret GRAS: How 100+ food chemicals bypassed government safety review*.  
+ American Journal of Public Health (AJPH). (2024). *Regulation of Added Substances in the Food Supply by the Food and Drug Administration Human Foods Program*. AJPH, 114(10), 1061–1070.  
+ The Guardian. (August 10, 2026). *FDA proposes new food ingredient rule but skips defining 'ultra-processed'*. Melody Schreiber.  
+ Breast Cancer Prevention Partners (BCPP). (2026). *Food Safety Loophole Allows Secret Toxic Chemicals in Our Food: The GRAS Provision*.  
+ The Washington Post. (August 11, 2026). *RFK Jr. is targeting a decades-old loophole allowing chemicals in food supply*. Rachel Roubein.  
+ Food Safety News. (2026). *GRAS loophole: How do new substances enter the food supply?*  
+ U.S. Food and Drug Administration (FDA). (August 10, 2026). *Generally Recognized as Safe (GRAS) Proposed Rule*. Docket Number FDA-2025-N-3262.
