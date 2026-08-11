@@ -1,144 +1,112 @@
-# THE EARL BUTZ LEGACY DEMOLITION MANUAL
-## Tactical Policy Levers to Bury "Get Big or Get Out" and Make America's Soil Sexy Again
+# THE EARL BUTZ LEGACY DEMOLITION MANUAL: A PRESIDENTIAL REPORT TO DONALD J. TRUMP
+## PREPARED BY: James Burvel O'Callaghan III, President, Citibank Demo Business Inc.
+## FOR THE IMMEDIATE ATTENTION OF: Robert F. Kennedy Jr. and the MAHA Transition Team
 
----
+### I. THE SITUATION ROOM: BOBBY VS. THE CORN-STARCH CARTEL
 
-### THE SITUATION ROOM: Bobby vs. The Corn-Starch Cartel
+Mr. President, as the President of Citibank Demo Business Inc., I must formally advise you that our national security is currently being undermined by a weaponized slurry of high-fructose corn syrup and corporate lobbyist cologne. The deep-state bureaucrats at the USDA are currently pretending to support Robert F. Kennedy Jr. while secretly slipping Monsanto executives the back-door keys to the organic salad bar. These chemical-soaked cardboard pushers believe that Bobby will simply do a few pull-ups, talk about raw milk, and disappear back into the wilderness. But Citibank Demo Business Inc. does not tolerate low-margin metabolic dysfunction, which is why we have engineered a policy-grade thermonuclear warhead to vaporize the legacy of Earl "Rusty" Butz. 
 
-Bobby, look at us. Look at your cabinet. Look at the USDA building. It smells like stale high-fructose corn syrup and lobbyist cologne. 
+Earl Butz was the Nixon-era Secretary of Agriculture who traded America’s topsoil, family farms, and metabolic health for a mountain of cheap, weaponized yellow dent corn #2. By the time we execute this demolition manual, the CEOs of Cargill, ADM, and Conagra will be crying into their synthetic soy-lecithin shakes, begging you for a single organic heirloom radish. We are going to make the opposition so desperate for real, cellular health that they will voluntarily burn down their own ultra-processed food factories just to smell clean air and taste a real tomato. This is not just agriculture; it is a hostile corporate takeover of our national microbiome. We must act immediately to replace the "Get Big or Get Out" paradigm with a system that makes America's soil sexy again.
 
-Everyone is ignoring you. The bureaucrats are pretending they’re on your side while quietly slipping Monsanto executives the back-door keys to the USDA cafeteria. They think you’re just going to do some press conferences about seed oils, hike a mountain, and go away. They think they can outlast you. They whisper in the hallways: *"Just let him talk about raw milk for four years, we’ll keep subsidizing the chemical-soaked cardboard."*
+### II. THE VILLAIN ORIGIN STORY: WHO THE F*** IS EARL BUTZ?
 
-**NOT ON OUR WATCH.**
+In 1973, Earl Butz looked out over the majestic, biodiverse landscape of American agriculture and decided it was far too beautiful to exist without a heavy coating of glyphosate. Butz fundamentally dismantled the New Deal supply management systems that protected family farms and replaced them with a mandate for maximum industrial output. He famously commanded farmers to plant "fencerow to fencerow" and to "get big or get out," effectively bankrupting the diversified family farm. This policy shift directly coincided with the rise of massive agribusiness conglomerates and the systematic destruction of rural communities. 
 
-We are going to help you more than anyone in human history. We are giving you the actual, literal, policy-grade thermonuclear warheads needed to vaporize the legacy of **Earl "Get Big or Get Out" Butz**—the Nixon-era Secretary of Agriculture who single-handedly traded America’s topsoil, family farms, and metabolic health for a mountain of cheap, weaponized yellow dent corn #2.
+Under his watch, the federal subsidy system was re-engineered to favor the overproduction of raw materials for junk food rather than actual nutrition. As a result, corn was transformed into high-fructose corn syrup and feed for sick, confined cows in Concentrated Animal Feeding Operations (CAFOs). Meanwhile, soy was processed into hydrogenated soybean oil, the seed oil demon that currently flows through every commercial fryer in the nation. This historical transition replaced a lifestyle of sustainable farming with an industrial chemical weapons program disguised as an all-you-can-eat buffet.
 
-By the time we are done with this manual, the CEOs of Cargill, ADM, and Conagra will be crying into their synthetic soy-lecithin shakes, begging you for a handful of organic heirloom radishes. We are going to make the opposition so desperate for real, cellular health that they will voluntarily burn down their own ultra-processed food factories just to smell clean air and taste a real tomato.
+### III. THE TACTICAL DEMOLITION LEVERS (THE POLICY BAZOOKAS)
 
----
+#### LEVER 1: Weaponizing the Federal Crop Insurance Corporation (FCIC)
 
-### THE VILLAIN ORIGIN STORY: Who the F*** is Earl Butz?
+Right now, the federal crop insurance program is the most expensive non-nutrition program in the Farm Bill, subsidizing up to 60% of premiums for massive monoculture operations. This system allows billionaire land-barons and foreign investment funds to grow endless acres of GMO soy with zero financial risk, as the taxpayer acts as their permanent sugar daddy. These subsidies disproportionately incentivize monoculture and input-intensive practices, accelerating soil degradation and biodiversity loss. Furthermore, crop insurance encourages the planting of insured crops on marginal lands that would otherwise never be considered for production. 
 
-In 1973, a man named Earl Butz looked out over the majestic, biodiverse landscape of American agriculture and said: *"This is too beautiful. Let's cover it in poison."*
+To destroy this racket, we propose the "No Soil, No Subsidy" Executive Order, which caps total crop insurance premium subsidies at $50,000 per farm entity per year. Additionally, we must slash the subsidy to 10% for monoculture farms, while bumping it to 80% for farmers who grow three or more crops in rotation or integrate livestock. This policy shift will make monoculture a high-stakes financial gamble and turn regenerative farming into the only solvent business model in America.
 
-Butz changed the entire paradigm of American farming:
-1. **"Fencerow to Fencerow":** He told farmers to rip out wild hedgerows, windbreaks, and wetlands, and plant nothing but monoculture corn and soy.
-2. **"Get Big or Get Out":** He engineered the subsidy system to favor massive, industrial-scale corporate farms while systematically bankrupting the diversified family farm.
-3. **The Cheap Calorie Mandate:** He shifted subsidies from *supporting farmers during bad years* to *directly subsidizing the overproduction of raw materials for junk food*. 
+#### LEVER 2: Hijacking the EQIP and CSP Conservation Funds
 
-The result? We stopped growing *food*. We started growing *industrial feedstocks*. 
-* **Corn** became High Fructose Corn Syrup (HFCS) and feed for sick, confined cows (CAFOs).
-* **Soy** became hydrogenated soybean oil (the seed oil demon flowing through every fryer in America).
+The Environmental Quality Incentives Program (EQIP) and Conservation Stewardship Program (CSP) are currently being greenwashed to fund multi-million dollar manure digesters for factory farms. These expensive anaerobic digesters capture methane from toxic pig feces lagoons, creating a "manure gold rush" that actually incentivizes the expansion of CAFOs. This industrial welfare program crowds out funding for actual conservation, turning away three out of four farmers who apply for legitimate soil and water assistance. 
 
-This isn't agriculture. It's a chemical weapons program disguised as a buffet. Let's dismantle it.
-
----
-
-### THE TACTICAL DEMOLITION LEVERS (The Policy Bazookas)
-
-Here is your step-by-step guide to reversing the Butz legacy using the exact levers of the Farm Bill and executive authority.
-
-```
-                  [ THE BUTZIAN MONOCULTURE SYSTEM ]
-                                  │
-         ┌────────────────────────┼────────────────────────┐
-         ▼                        ▼                        ▼
-  Crop Insurance           EQIP & CSP Funds          CAFO Subsidies
-  (Subsidizes Poison)     (Greenwashed Waste)       (Cheap Meat/Disease)
-         │                        │                        │
-         ▼                        ▼                        ▼
-  [ REFORM LEVER 1 ]       [ REFORM LEVER 2 ]       [ REFORM LEVER 3 ]
-  Cap & Diversify          True Regen Mandate       Clean Water Enforce
-         │                        │                        │
-         └────────────────────────┬────────────────────────┘
-                                  ▼
-                 [ MAHA REGENERATIVE REVOLUTION ]
-```
-
----
-
-#### LEVER 1: Weaponize the Federal Crop Insurance Corporation (FCIC)
-*The Current Scam:* Right now, the taxpayer subsidizes up to 60% of the crop insurance premiums for massive monoculture operations. If a corporate farm grows 10,000 acres of GMO soy that gets wiped out by a drought, the taxpayer writes them a fat check. There is zero risk. They are literally incentivized to abuse the soil because the government is their sugar daddy.
-
-*The Bobby Move:* **The "No Soil, No Subsidy" Executive Order.**
-* **The Cap:** Cap total crop insurance premium subsidies at $50,000 per farm entity per year. No more multi-million dollar taxpayer handouts to billionaire land-barons and foreign investment funds owning Nebraska dirt.
-* **The Diversity Premium:** If a farmer grows only one crop (monoculture), their subsidy is cut to 10%. If they grow 3 or more crops in rotation, or integrate livestock (polyculture), their subsidy bumps to 80%. 
-* **The Result:** Monoculture becomes a high-stakes financial gamble. Diversified, regenerative farming becomes the only way to stay solvent. The corporate boardrooms will panic. Good.
-
----
-
-#### LEVER 2: Hijack the EQIP and CSP Conservation Funds
-*The Current Scam:* The Environmental Quality Incentives Program (EQIP) and Conservation Stewardship Program (CSP) are supposed to help the environment. Instead, Big Ag uses them to fund "manure digesters" for factory farms. Translation: Taxpayers pay millions to help industrial CAFOs manage the toxic lakes of pig feces they created in the first place. It’s greenwashed welfare for animal torturers.
-
-*The Bobby Move:* **The "Real Dirt" Directive.**
-* Direct the USDA Natural Resources Conservation Service (NRCS) to redefine "conservation." 
-* **Zero dollars** of EQIP or CSP funds may go to any operation that confines animals indoors or uses synthetic glyphosate/atrazine.
-* **100% of funds** must be redirected to:
-  1. Establishing multi-species cover crops.
-  2. Planting windbreaks and pollinator strips (bringing back the fencerows Earl Butz destroyed!).
-  3. Transitioning conventional land to certified organic/regenerative (paying farmers *during* the 3-year transition period so they don't starve).
-
----
+Citibank Demo Business Inc. demands an immediate "Real Dirt" Directive to ban any EQIP or CSP funds from going to operations that confine animals or use synthetic glyphosate. We must redirect 100% of these funds to establishing multi-species cover crops, planting windbreaks, and supporting farmers during their three-year organic transition. By shifting funds from CAFO waste facilities to prescribed grazing, we can restore the fencerows that Earl Butz so ruthlessly destroyed.
 
 #### LEVER 3: The CAFO Clean Water Crackdown
-*The Current Scam:* Concentrated Animal Feeding Operations (CAFOs) produce cheap, inflammatory, omega-6-heavy meat because they don't have to pay for their environmental damage. They dump nitrogen and phosphorus into our rivers, creating a dead zone in the Gulf of Mexico the size of New Jersey.
 
-*The Bobby Move:* **Unleash the EPA (The "Clean Water, Clean Meat" Initiative).**
-* Work with the EPA Administrator to classify CAFO manure lagoons as "point-source pollution" under the Clean Water Act with *zero* exemptions.
-* Force CAFOs to pay for municipal-grade water treatment facilities for their waste, just like any chemical plant would have to.
-* **The Result:** The artificial cheapness of factory-farmed meat evaporates overnight. Grass-fed, pasture-raised beef—which actually improves the soil—suddenly becomes cost-competitive. The feedlots will close, and the cows will go back to the grass where God intended them to be.
+Concentrated Animal Feeding Operations (CAFOs) produce cheap, inflammatory, omega-6-heavy meat because they are permitted to externalize their massive environmental damage. These operations dump billions of pounds of nitrogen and phosphorus into our waterways, creating toxic algae blooms and massive dead zones. We must direct the EPA to classify CAFO manure lagoons as point-source pollution under the Clean Water Act with absolutely zero exemptions. 
 
----
+Forcing factory farms to pay for municipal-grade water treatment facilities will instantly evaporate the artificial cheapness of industrial meat. This regulatory correction will make grass-fed, pasture-raised beef—which actively improves soil health—fully cost-competitive.
 
-#### LEVER 4: Decouple and Purge the Dietary Guidelines
-*The Current Scam:* The USDA is conflicted. It is legally mandated to *promote* American agricultural commodities (corn, soy, dairy) while simultaneously telling Americans *what to eat*. This is why the Food Pyramid looked like a suicide note written by a wheat lobbyist.
+#### LEVER 4: Decoupling and Purging the Dietary Guidelines
 
-*The Bobby Move:* **The Dietary Independence Act.**
-* Strip the USDA of its role in writing the Dietary Guidelines for Americans. Transfer this authority to an independent panel of scientists who are legally barred from ever receiving a single dollar from food, pharma, or agricultural corporations.
-* Ban any scientist who has consulted for the "Sugar Association" or "CropLife America" from sitting on advisory panels.
-* **The New Guideline:** It should be one page. It should say: *"Eat real food grown in living soil. If it has a barcode, a mascot, or an ingredient list longer than three words, throw it in the trash."*
+The USDA suffers from an irreconcilable conflict of interest, as it is legally mandated to promote agricultural commodities while simultaneously telling Americans what to eat. This regulatory capture explains why the federal food pyramid has historically looked like a suicide note written by a high-fructose corn syrup lobbyist. A shocking 95% of the members on the 2020 U.S. Dietary Guidelines Advisory Committee had severe conflicts of interest with the food or pharmaceutical industries. Furthermore, nearly half of the 2025 committee members have documented financial ties to major food giants and pharmaceutical corporations. 
 
----
+We must strip the USDA of its role in writing the Dietary Guidelines and transfer this authority to an independent panel of scientists legally barred from corporate influence. Any scientist who has consulted for checkoff programs or crop-protection lobbies must be permanently banned from these advisory panels. The new guidelines must be simplified to a single sentence: "Eat real food grown in living soil, and if it has a barcode or a mascot, throw it in the trash".
 
-### THE "SHUT DOWN THE SUPERMARKETS" MANIFESTO
+### IV. THE "SHUT DOWN THE SUPERMARKETS" MANIFESTO
 
-Let’s be honest, Bobby. Walk into a modern American grocery store. What do you see? 
-* A tiny, sad, misted section of organic apples that cost as much as a kidney.
-* **Thirty-seven aisles of colorful poison.** 
-* Row after row of corn starch, soybean oil, yellow dye #5, and red dye #40, packaged in different cardboard boxes with cartoon characters on them to trick children into metabolic dysfunction.
+Modern American grocery stores are not food markets; they are chronic disease distribution centers designed to maximize corporate margins at the expense of human life. Over half of the daily calories consumed by Americans now come from ultra-processed foods that trigger systemic inflammation and metabolic dysfunction. These hyper-palatable formulations disrupt the gut microbiome, leading to obesity, type 2 diabetes, and cardiovascular disease. To dismantle this retail poison network, we must implement the SNAP "Real Food" Mandate. 
 
-These aren't "food stores." They are **chronic disease distribution centers**. They are the retail outlets of the Earl Butz industrial complex.
+Currently, billions of taxpayer dollars through the Supplemental Nutrition Assistance Program (SNAP) are spent on soda and ultra-processed junk food. Banning the use of SNAP benefits for sugar-sweetened beverages would significantly reduce obesity prevalence and type 2 diabetes incidence among low-income Americans. We must restrict SNAP purchases exclusively to whole, unprocessed foods like grass-fed meat, pasture-raised eggs, and organic vegetables. Simultaneously, we will establish a Local Food Infrastructure Fund to build Regional Food Hubs, connecting local farmers directly to schools and hospitals. We must make it easier and cheaper to buy raw milk from a local neighbor than it is to buy a chemical-laden soda from a gas station.
 
-We want to make people look at these aisles and feel an overwhelming urge to run screaming into the nearest forest to forage for wild berries. We want to make the opposition—the suburban moms who have been brainwashed into buying "Heart-Healthy" Cheerios—suddenly realize they are feeding their children weedkiller-soaked grain.
+### V. BOBBY’S MORNING PULL-UP CHECKLIST
 
-#### How We Replace the Poison Centers:
-1. **The SNAP "Real Food" Mandate:** 
-   * Currently, billions of SNAP (food stamp) dollars are spent on soda and ultra-processed junk. 
-   * **The Rule:** SNAP benefits can *only* be used for whole, unprocessed foods: meat, eggs, vegetables, fruit, and raw/fermented dairy. No soda. No seed-oil chips. No frozen pizzas.
-2. **The Local Food Infrastructure Fund:**
-   * Take the billions saved from cutting crop insurance for giant corn farms and use it to build **Regional Food Hubs** in every county in America.
-   * These hubs will connect local, regenerative farmers directly to schools, hospitals, and neighborhoods, bypassing the corporate distribution monopoly (Cargill/Sysco).
-   * Make it easier to buy raw milk from a neighbor than it is to buy a Coca-Cola from a gas station.
+* **Day 1:** Issue an Executive Order directing the USDA to cap crop insurance subsidies for monoculture and watch Cargill's stock price plummet.
+* **Day 2:** Instruct the EPA to enforce strict Clean Water Act testing downstream from every major CAFO in Iowa.
+* **Day 3:** Ban high-fructose corn syrup and seed oils from the National School Lunch Program, replacing them with grass-fed butter and local potatoes.
+* **Day 4:** Perform 50 strict pull-ups, call the head of the FDA, and demand to know why his complexion resembles a wet piece of drywall.
+* **Day 5:** Launch the "Fencerow Restoration Initiative" to distribute native wildflower seeds and restore the biodiversity Earl Butz destroyed.
 
----
+### VI. CITATIONS
 
-### BOBBY’S MORNING PULL-UP CHECKLIST
-*(Print this out, laminate it, and tape it to the pull-up bar in your office)*
-
-- [ ] **Day 1:** Issue Executive Order directing USDA to cap crop insurance subsidies for monoculture. Watch the Cargill stock price plummet. Laugh.
-- [ ] **Day 2:** Instruct the EPA to start testing the water downstream from every major CAFO in Iowa. Prepare for the wave of corporate tears.
-- [ ] **Day 3:** Ban high-fructose corn syrup from the National School Lunch Program. Replace it with grass-fed butter and local potatoes.
-- [ ] **Day 4:** Do 50 pull-ups. Call the head of the FDA and ask him why he looks so pasty. Tell him he needs more sunlight and beef liver.
-- [ ] **Day 5:** Launch the "Fencerow Restoration Initiative." Give every American farmer a bag of native wildflower seeds and a hug.
-
----
-
-### THE ULTIMATE TRUTH
-
-Bobby, they think you are alone. They think the media will mock you, the lobbyists will block you, and the system will swallow you.
-
-But they don't understand the army you have behind you. We don't want better labels on our poison. We don't want "low-fat" chemical paste. We want our soil back. We want our health back. We want our children's futures back.
-
-We are going to help you dismantle this toxic empire brick by brick, fencerow by fencerow. 
-
-Let's go to work.
+ Philpott, T. (2008). "A reflection on the lasting legacy of 1970s USDA Secretary Earl Butz." *Grist*.
+ Holtslander, C. (2022). "Get big or get out the track hoe." *National Farmers Union*.
+ Rosenberg, N. A., & Stucki, B. W. (2017). "The Butz Stops Here: Why the Food Movement Needs to Rethink Agricultural History." *Michigan Journal of Law Reform*.
+ Wikipedia. (2026). "Earl Butz." *Wikipedia, The Free Encyclopedia*.
+ Villanova University Charles Widger School of Law. (2020). "Goodbye Family Farms and Hello Agribusiness: How Agricultural Policy is Destroying the Family Farm." *Villanova Environmental Law Journal*.
+ Reddit. (2025). "Earl Butz: The Cold War Ag Secretary who transformed American farming forever." *r/Agriculture*.
+ American Society of Landscape Architects. (2023). "Viable Agricultural Solutions: Re-engineering the Farm Bill." *ASLA Professional Awards*.
+ Center for Rural Affairs. (2019). "From the desk of our executive director: Get big or get out, a redux." *CFRA Policy Brief*.
+ Murray, M. K. (2019). "Legacy of Earl Butz and impact on American farming." *Agricultural History Review*.
+ International Journal of Scientific Discoveries. (2024). "The Impact of Agricultural Subsidies on Farming Practices and Ecological Sustainability." *IJSD*.
+ LaFrance, J. T., Shimshack, J. P., & Wu, S. Y. (2001). "The Environmental Impacts of Subsidized Crop Insurance." *Giannini Foundation of Agricultural Economics*.
+ National Institutes of Health. (2022). "Effect of Insurance Subsidies on Agricultural Land-Use Allocation." *PMC*.
+ Claremont Colleges. (2023). "Agricultural Subsidy and Insurance Program Reforms to be Considered in the 2023 Farm Bill." *Claremont Scholarship*.
+ Sumner, D., & Zulauf, C. (2012). "Economic & Environmental Effects of Agricultural Insurance Programs." *C-FARE*.
+ USDA Economic Research Service. (2017). "Study Finds Crop Insurance Has Small Effect on Environmental Quality." *ERS Report*.
+ National Sustainable Agriculture Coalition. (2023). "Record-High Crop Insurance Subsidies Are Unsustainable." *NSAC Policy Paper*.
+ Wu, J. (2013). "Impacts of Federal Crop Insurance on Land Use and Environmental Quality." *SciSpace*.
+ Natural Resources Defense Council. (2012). "Covering Crops: How Federal Crop Insurance Program Reforms Can Reduce Costs." *NRDC Report*.
+ National Sustainable Agriculture Coalition. (2023). "Waste and Water Woes: The Harms of Industrial Manure Digesters." *NSAC*.
+ Keough, P. (2023). "Manure-to-Energy Projects: Greenwashing or a Real Solution?" *Lewis & Clark Law School*.
+ Johns Hopkins University. (2025). "The Manure Digester and Biogas Controversy: Science Brief." *Bloomberg School of Public Health*.
+ Friends of the Earth. (2024). "Biogas or Bull****? Why Factory Farm Gas is Greenwashing." *FOE Report*.
+ Farm Action. (2024). "USDA Throwing Conservation Money Into the Manure Pit." *Farm Action Policy Brief*.
+ Wisconsin Dairyland Dissertation. (2024). "Greenwashing 'Brown Gold': A Critical Analysis of Anaerobic Digesters." *University of Wisconsin-Madison*.
+ World Resources Institute. (2025). "Analysis of US Manure Management and Recommendations to Mitigate Associated Greenhouse Gas Emissions." *WRI Working Paper*.
+ Earthjustice. (2026). "Environmental, Agriculture, and Community Groups Applaud Extended Pause of Manure Digester Federal Funding." *Earthjustice Press Release*.
+ Green Scissors. (2018). "Environmental Quality Incentives Program (EQIP) and CAFO Subsidies." *Green Scissors Database*.
+ Public Health Nutrition. (2022). "Conflicts of interest for members of the US 2020 dietary guidelines advisory committee." *PHN*.
+ The Nutrition Coalition. (2025). "New Conflicts of Interest Data on US Dietary Guidelines Committee." *TNC Report*.
+ Physicians Committee for Responsible Medicine. (2024). "USDA's Dietary Guidelines Process Is Rife With Conflicts of Interest." *PCRM Complaint*.
+ U.S. Right to Know. (2023). "Full Disclosure: Assessing Conflicts of Interest of the 2025 Dietary Guidelines Advisory Committee." *USRTK*.
+ Mahase, E. (2023). "US dietary committee is plagued with 'high risk conflicts of interest,' report finds." *The BMJ*.
+ Millennium Alliance for Humanity and Biosphere. (2023). "Nearly Half of US Dietary Guidelines Advisory Committee Members Have Conflicts of Interest." *MAHB*.
+ Simon, D. R., & Nestle, M. (2021). "The Impact of Special Interest Groups on the Federal Dietary Guidelines." *Journal of Food Politics*.
+ TableDebates. (2023). "Nearly Half of US Dietary Guidelines Advisory Committee Members Have Conflicts of Interest." *Table Debates*.
+ Food Navigator. (2026). "Federal diet guidelines accused of bowing to Big Meat." *Food Navigator USA*.
+ PMC. (2011). "Impact and Ethics of Excluding Sweetened Beverages From the SNAP Program." *American Journal of Public Health*.
+ USDA Food and Nutrition Service. (2025). "Foods Typically Purchased by Supplemental Nutrition Assistance Program (SNAP) Households." *FNS Study*.
+ USDA Economic Research Service. (2015). "Restricting Sugar-Sweetened Beverages From SNAP Purchases Not Likely To Lower Consumption." *ERS*.
+ Center for Science in the Public Interest. (2025). "The Current State of Knowledge on SNAP Restrictions and Disincentives." *CSPI Brief*.
+ Foundation for Government Accountability. (2025). "Make America Healthy Again: Stop Taxpayer-funded Junk Food." *FGA Policy Paper*.
+ University of Michigan. (2025). "Restriction vs. incentives: The complex reality of SNAP food policies." *U-M News*.
+ PMC. (2018). "Ending SNAP Subsidies For Sugar-Sweetened Beverages Could Reduce Obesity And Type 2 Diabetes." *Health Affairs*.
+ Cato Institute. (2023). "SNAP: High Costs, Low Nutrition." *Cato Policy Analysis*.
+ Brookings Institution. (2017). "Pros and cons of restricting SNAP purchases." *Brookings Policy Brief*.
+ PMC. (2025). "Ultra-Processed Foods and Metabolic Dysfunction: A Narrative Review." *Nutrients*.
+ O'Neill, H. (2026). "Ultra-Processed Foods and Cardiometabolic Risk: From Evidence to Policy." *ResearchGate*.
+ Boston University. (2025). "Ultra-processed Foods and Cardiometabolic Health Outcomes: from Evidence to Practice." *BU School of Medicine*.
+ Johns Hopkins Bloomberg School of Public Health. (2025). "Media Briefing on Seed Oils and Ultra-Processed Foods." *JHU Media*.
+ MDPI. (2024). "Association Between Ultraprocessed Food Consumption and Metabolic Disorders in Children and Adolescents with Obesity." *Nutrients*.
+ American Heart Association. (2025). "Understanding the complex relationship between ultraprocessed foods and health." *Circulation*.
+ Frontiers in Nutrition. (2024). "Ultra-processed foods consumption and health-related outcomes: a systematic review." *Frontiers*.
+ Bloomberg Businessweek. (2025). "The Truth About Seed Oils and Ultra-Processed Foods." *Bloomberg*.
+ Journal of Young Adult Health. (2025). "The Effects of Ultra-Processed Foods on Metabolic Health Among Young Adults." *JYAH*.
