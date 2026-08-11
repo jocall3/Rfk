@@ -1,0 +1,438 @@
+﻿Comprehensive Policy Blueprint and Regulatory Framework for the Make America Healthy Again Agenda
+Executive Summary and Administrative Mandate
+The United States faces an unprecedented chronic disease crisis that threatens public health, national productivity, and long-term economic stability. Over six in ten American adults live with at least one chronic condition, forty percent of the adult population is diabetic or prediabetic, and a quarter of youth suffer from chronic metabolic, allergic, or neurodevelopmental disorders. On February 13, 2025, President Donald J. Trump issued Executive Order 14212, establishing the President's Make America Healthy Again (MAHA) Commission, chaired by Secretary of Health and Human Services Robert F. Kennedy Jr.. The mandate requires an all-of-government realignment to lower chronic disease rates, eliminate regulatory capture, restore scientific integrity, and reverse the childhood chronic disease epidemic.
+Following the release of the Make Our Children Healthy Again Assessment in May 2025 and the Make Our Children Healthy Again Strategy in September 2025—which detailed over 120 targeted administrative initiatives—this report provides an exhaustive, actionable policy blueprint across ten administrative, scientific, statutory, and legal domains. It formulates concrete statutory amendments, executive directives, agency rulemakings, and legal defense strategies designed to systematically address root-cause drivers of chronic illness, reform industrial agriculture and food processing, reduce chemical exposures, and restructure the federal healthcare ecosystem.
+Domain I: Defining Ultra-Processed Foods and Agricultural Reform
+Legal Definition and Codification of Ultra-Processed Foods
+To eliminate regulatory ambiguities that allow food manufacturers to bypass processing restrictions through minor chemical reformulations, federal regulations must establish an objective, statutory definition of Ultra-Processed Foods (UPFs) grounded in the NOVA classification framework. The Food and Drug Administration (FDA) should codify a new section under Title 21 of the Code of Federal Regulations (21 C.F.R. § 170.35) defining NOVA Group 4 UPFs as industrial formulations characterized by a high Processing Intensity Score combined with the presence of Class I or Class II industrial additives.
+An item is designated as a UPF if it contains five or more ingredients and includes either:
+* Industrial food substances derived through severe chemical hydrolysis, hydrogenation, interesterification, or thermal fractionation, such as high-fructose corn syrup, hydrogenated oils, soy protein isolates, and maltodextrin.
+* Additives designed to alter sensory profiles or mask inferior raw materials, including synthetic emulsifiers, artificial flavor enhancers, non-nutritive sweeteners, texturizers, and certified petroleum-based color additives.
+To ensure regulatory enforceability, the rule establishes a quantitative Processing Intensity Index based on physical, thermal, and chemical transformations, eliminating subjective intent from compliance determinations.
+Food Category (NOVA Classification)
+	Core Biochemical and Industrial Characteristics
+	Regulatory Status and Federal Program Eligibility
+	Group 1: Unprocessed / Minimally Processed
+	Edible parts of plants or animals subjected to physical processing (cleaning, grinding, drying, freezing) without added substances.
+	Unrestricted access across SNAP, WIC, NSLP; subsidized via Farm Bill Title II.
+	Group 2: Processed Culinary Ingredients
+	Substances extracted directly from Group 1 foods (butter, plant oils, honey, sugar, salt) used in home or restaurant cooking.
+	Standard regulatory oversight; allowed as cooking inputs in institutional settings.
+	Group 3: Processed Foods
+	Simple formulations of Group 1 foods combined with Group 2 ingredients (canned vegetables, artisanal cheese, cured meats).
+	Permitted across federal programs with standard nutritional and sodium guidelines.
+	Group 4: Ultra-Processed Foods (UPFs)
+	Multi-ingredient industrial formulations, synthesized inputs, cosmetic additives, and the absence of intact whole-food matrices.
+	Prohibited in NSLP and CACFP; restricted in SNAP and WIC; subject to mandatory Front-of-Pack warning labels.
+	Statutory Restrictions on UPF Marketing to Minors
+Restricting the commercial marketing of UPFs to pediatric populations requires targeted amendments to the Federal Food, Drug, and Cosmetic Act (FD&C Act) and the Federal Trade Commission Act (FTC Act). Congress must add Section 403B to the FD&C Act (21 U.S.C. § 343B), designating any UPF as misbranded if it is advertised, marketed, or promoted directly to children under the age of 16 across broadcast, digital, print, or social media platforms.
+To withstand constitutional scrutiny under the First Amendment commercial speech doctrine established in Central Hudson Gas & Electric Corp. v. Public Service Commission, the statute explicitly establishes that:
+* The government possesses a compelling state interest in mitigating epidemic rates of pediatric metabolic dysfunction, non-alcoholic fatty liver disease (NAFLD), and early-onset prediabetes.
+* The restriction directly advances this interest because empirical bio-behavioral data demonstrates that neuro-targeted digital advertising overrides pediatric metabolic satiety signals.
+* The law is narrowly tailored by applying exclusively to NOVA Group 4 products while leaving non-UPF food advertising entirely unrestricted.
+Agricultural Policy Realignment under the U.S. Farm Bill
+Federal agricultural subsidies under Title I (Commodity Programs) and Title XI (Crop Insurance) of the Agricultural Improvement Act (Farm Bill) must be reallocated away from monoculture commodity crops—primarily field corn and soybeans destined for industrial processing and animal feed—toward specialty crops, fresh produce, and diversified production systems.
+Under the traditional framework, crop insurance subsidies heavily favor monoculture corn and soy, driving the overproduction of cheap high-fructose corn syrup and industrial seed oils. Realigning these incentives requires establishing specialty crop subsidy parity and providing direct transition support for regenerative practices.
+The Risk Management Agency (RMA) must revise the Federal Crop Insurance Act (7 U.S.C. § 1508) to establish premium subsidy caps for operations practicing continuous monoculture, while offering tiered premium discounts for producers achieving crop rotation diversity, cover cropping, and reduced chemical application. Concurrently, the Farm Service Agency (FSA) must restructure Title I Agriculture Risk Coverage (ARC) and Price Loss Coverage (PLC) programs to establish budget neutrality by redirecting $3.5 billion annually toward specialty crop block grants, cold-chain distribution infrastructure, and regional food hubs.
+Incentivizing Regenerative Farming for Small-to-Medium Producers
+The Natural Resources Conservation Service (NRCS) must overhaul the Environmental Quality Incentives Program (EQIP) and the Conservation Stewardship Program (CSP) under 7 C.F.R. Part 1466. Administrative rule adjustments will create a dedicated Regenerative Agricultural Transition Pathway for farms under 1,000 acres. This pathway provides:
+* Direct financial assistance covering up to 85% of transition costs during the three-year conversion period from conventional to regenerative practices.
+* Exemption from federal crop insurance loss-ratio penalties during the transition phase.
+* Fast-tracked technical assistance for biological soil amendments, rotational grazing infrastructure, and non-chemical weed management systems.
+Front-of-Pack Processing and Chemical Labeling
+Under authority granted by Section 403(q) of the FD&C Act (21 U.S.C. § 343(q)), HHS and USDA must jointly mandate a standardized Front-of-Pack (FOP) nutrition and processing label on all packaged food products sold in interstate commerce. The regulation requires a high-contrast visual icon system on the principal display panel indicating:
+* Processing Grade: Explicit classification as Minimal, Moderate, or Ultra-Processed based on NOVA criteria.
+* Synthetic Additive Warning: A warning icon if the product contains petroleum-derived dyes, synthetic emulsifiers, or non-nutritive artificial sweeteners.
+* Added Sugar and Glycemic Impact: Total added sugars expressed in grams and as a percentage of a revised Daily Value (capped at 25 grams total per day).
+Premarket Safety Testing for Food Formulations
+The FDA must revise 21 C.F.R. Part 170 to eliminate the practice of introducing novel, untested chemical combinations into the food supply. Under the new administrative pathway, any food formulation incorporating an industrial chemical input, synthetic processing aid, or modified molecular matrix not marketed in interstate commerce prior to January 1, 2025, must submit a Food Additive Petition (FAP) supported by mandatory 90-day rodent toxicological studies, metabolic disruption profiles, and gut microflora impact assessments prior to commercial distribution.
+Industrial Seed Oil Processing Safety Reviews
+Industrial seed oils extracted using volatile organic solvents—specifically hexane-extracted soybean, corn, canola, cottonseed, and sunflower oils—must undergo comprehensive safety reviews under FD&C Act Section 409. The FDA Center for Food Safety and Applied Nutrition (CFSAN) must evaluate the health impacts of processing degradation products, specifically:
+* Thermal oxidation byproducts, including 4-hydroxy-2-nonenal (4-HNE) and lipid peroxides.
+* Residual chemical extraction solvents.
+* High ratios of omega-6 linoleic acid to omega-3 fatty acids and their role in systemic cellular inflammation and mitochondrial uncoupling.
+Products containing solvent-extracted seed oils subjected to deodorization and bleaching will lose Generally Recognized As Safe (GRAS) status if toxicological reviews demonstrate bioaccumulation of oxidative products.
+Reformulation Incentives away from Synthetic Emulsifiers
+Synthetic emulsifiers—specifically carboxymethylcellulose, polysorbate 80, mono- and diglycerides, and sodium stearoyl lactylate—disrupt the intestinal mucus layer, increasing gut permeability and promoting low-grade systemic inflammation linked to metabolic syndrome. The FDA will establish a regulatory fast-track for food manufacturers that voluntarily reformulate products to remove synthetic emulsifiers, replacing them with natural whole-food hydrocolloids or mechanical emulsification processes. Incentives include:
+* Priority processing for product label updates.
+* Authorization to display a certified federal label claim stating that the product is formulated without gut-disrupting synthetic emulsifiers.
+* Reduced administrative burden under state-level facility inspections.
+Institutional Procurement Overhaul across Federal Facilities
+The General Services Administration (GSA), Department of Defense (DoD), Department of Veterans Affairs (VA), Bureau of Prisons (BOP), and USDA must update federal procurement guidelines across 48 C.F.R. Chapter 1 and 7 C.F.R. Part 210 to enforce whole-food purchasing standards across military base dining facilities, VA hospitals, federal correctional institutions, and public school cafeterias. The regulations require:
+* Complete exclusion of NOVA Group 4 UPFs from baseline master menus.
+* A minimum threshold of 75% total food expenditures directed toward whole, minimally processed ingredients under NOVA Group 1.
+* Elimination of high-fructose corn syrup, hydrogenated oils, and petroleum-based dyes from all institutional food service contracts.
+Integrating Soil Microbiome Metrics into Nutritional Policy
+Federal nutritional policy must recognize the direct causal link between soil biological vitality, plant nutrient density, and human metabolic health. The USDA Agricultural Research Service (ARS), in coordination with HHS, must establish standardized Soil Microbiome Health Metrics, measuring:
+* Fungal-to-bacterial ratios (F:B).
+* Microbial biomass carbon (MBC).
+* Mycorrhizal fungi colonization rates.
+* Phytonutrient and trace mineral concentrations in harvestable crops.
+These metrics will be integrated into the Dietary Guidelines for Americans, formally linking regenerative soil practices that enhance micronutrient density to national disease-prevention goals.
+Domain II: FDA and GRAS Loophole Overhaul
+Legislative Elimination of GRAS Self-Affirmation
+The regulatory loophole allowing chemical manufacturers to self-affirm food substances as Generally Recognized As Safe (GRAS) without FDA notification or oversight must be closed through statutory repeal. Congress must enact legislation amending Section 409(s) of the FD&C Act (21 U.S.C. § 348(s)) to explicitly strike manufacturer self-determination provisions.
+Under the legacy system, a chemical sponsor could self-affirm GRAS status and market a substance directly without FDA review. Under the proposed statutory overhaul, all food additive candidates must undergo a formal Food Additive Petition (FAP) review, independent toxicological testing, and public notice-and-comment approval published in the Federal Register. The amended statute mandates that no new chemical, food additive, or processing aid may be legally added to food sold in interstate commerce without prior FDA approval. Striking the voluntary GRAS notification rule under 21 C.F.R. Part 170, Subpart E restores the original statutory intent of the Food Additives Amendment of 1958.
+Retroactive Safety Review of Existing Additives
+The FDA CFSAN must initiate a mandatory, systematic retroactive safety review of the approximately 10,000 food additives, flavorings, and GRAS-listed substances currently on the market. To manage review capacity, the FDA will establish a Toxicological Prioritization Matrix categorized into three sequential tiers:
+* Tier 1 (High Priority): Targets high-risk potential endocrine disruptors, petroleum dyes, and synthetic emulsifiers, with a mandatory 24-month review deadline.
+* Tier 2 (Medium Priority): Covers synthetic preservatives, artificial texturizers, and processing solvents, with a 48-month review deadline.
+* Tier 3 (Low Priority): Evaluates unprocessed biological extracts, natural organic acids, and sea salts, with a 72-month review deadline.
+Sponsors of substances in Tier 1 and Tier 2 must submit modern safety dossiers incorporating modern endocrine disruption, neurotoxicity, microplastic contamination, and microbiome impact assays. Failure to submit required data within statutory deadlines will result in immediate revocation of food additive authorizations.
+Administrative Phase-Out of Petroleum-Based Artificial Food Dyes
+Pursuant to the Delaney Clause of FD&C Act Section 409(c)(3)(A) (21 U.S.C. § 348(c)(3)(A))—which prohibits the approval of any food additive shown to induce cancer or adverse physiological outcomes—and following the historical ban on Red Dye No. 3, HHS and FDA must initiate rulemaking to revoke all certified color additive approvals for petroleum-based dyes under 21 C.F.R. Part 74. Target substances include FD&C Red No. 40, FD&C Yellow No. 5 (Tartrazine), FD&C Yellow No. 6, and FD&C Blue No. 1 and Blue No. 2.
+Epidemiological and clinical trial data link synthetic food dyes to pediatric neurodevelopmental impairment, behavioral disruption, and cellular toxicity. The administrative rule provides a 12-month transition phase for industry compliance, supporting conversion to natural, plant-derived colorants.
+Overhauling FDA Advisory Committees and Conflicts of Interest
+To eliminate corporate capture within the FDA Center for Drug Evaluation and Research (CDER) and CFSAN, HHS must restructure advisory committee appointment protocols under the Federal Advisory Committee Act (FACA, 5 U.S.C. App. 2). The new regulations stipulate:
+* Absolute prohibition on granting conflict-of-interest waivers under 18 U.S.C. § 208(b) for individuals who have received financial compensation, research grants, or consulting fees from regulated entities within the preceding five years.
+* Public disclosure of all financial ties, research funding, and patent holdings for prospective committee members on an open-access online database 30 days prior to any panel assembly.
+* Mandatory inclusion of independent toxicologists, lifestyle medicine clinicians, and environmental health scientists on every voting panel.
+Replacing Industry User Fees with Direct Congressional Appropriations
+The structural conflict of interest created by user fee frameworks—wherein regulated industries supply over half of the FDA's Human Drugs Program operating budget—must be systematically phased out.
+Regulatory Framework
+	Current Industry Funding Model (FY 2023–2027 Base)
+	Proposed Post-Reform Appropriations Model
+	PDUFA (Prescription Drugs)
+	$1.515 Billion annually in direct industry user fees.
+	100% direct congressional budget authority; user fee collection repealed.
+	MDUFA (Medical Devices)
+	Approximately $350 Million annually in medical device application fees.
+	Direct taxpayer funding under HHS discretionary appropriations.
+	GDUFA (Generic Drugs)
+	Approximately $500 Million annually in generic drug facility and application fees.
+	Fully funded direct appropriation to prevent reviewer regulatory capture.
+	Congress must enact statutory revisions repealing Sections 735 and 736 of the FD&C Act (21 U.S.C. §§ 379g, 379h) upon the expiration of PDUFA VII. To preserve regulatory capacity without compromising independence, Congress will establish a direct appropriation within the annual HHS budget, replacing user fee revenues dollar-for-dollar through general revenue allocations.
+Phase-Out of Endocrine-Disrupting Packaging Materials
+Under the Food Contact Substance notification provisions of FD&C Act Section 409(h), the FDA must establish a mandatory 24-month phase-out schedule for all per- and polyfluoroalkyl substances (PFAS), orthophthalates, bisphenol A (BPA), and bisphenol analogues (BPS, BPF) used in food packaging, food contact materials, processing equipment, and beverage containers. The rule establishes zero-tolerance migration thresholds into food matrices, classifying non-compliant packaging as an unsafe food additive under 21 U.S.C. § 342(a)(2)(C).
+Restricting Deceptive Health Claims on Processed Foods
+The FDA must amend 21 C.F.R. § 101.14 to prohibit nutrient content claims—such as "Good Source of Vitamin D," "Contains Whole Grains," or "Heart Healthy"—on packaged foods classified as NOVA Group 4 UPFs or products containing more than 5 grams of added sugars per serving. Synthetic fortification with isolated vitamins and minerals will no longer qualify a product for positive health claims if the underlying food matrix contains refined carbohydrates, hydrogenated oils, or industrial chemical additives.
+Modernization of Import Safety and Environmental Toxin Screening
+Pursuant to the FDA Food Safety Modernization Act (FSMA, 21 U.S.C. § 2201 et seq.), the FDA must modernize inspection protocols at foreign supplier facilities and U.S. ports of entry. Import screening directives must require high-resolution mass spectrometry testing for foreign food imports to detect residues of pesticides banned in the U.S., heavy metals (lead, cadmium, arsenic), microplastics, and unapproved veterinary antibiotics. Import shipments failing biological safety thresholds will face immediate entry refusal and mandatory destruction at importer expense.
+Full Transparency of Flavors and Chemical Solvents
+The FDA must revise ingredient labeling regulations under 21 C.F.R. § 101.22 to eliminate vague umbrella terms such as "Natural Flavors" and "Artificial Flavors." Food manufacturers will be legally required to list the specific chemical compounds, botanical extracts, synthetic adjuncts, carriers, and extraction solvents (such as hexane, isopropyl alcohol, and propylene glycol) utilized in product formulations.
+Expanding FDA Emergency Recall Authority over Chemical Contaminants
+Congress must amend Section 423 of the FD&C Act (21 U.S.C. § 350l) to expand mandatory recall authority. Currently restricted primarily to pathogenic biological hazards, the statute will grant the FDA Commissioner immediate mandatory recall authority when chemical testing reveals heavy metals, unapproved additives, industrial toxic residues, or persistent organohalogens exceeding federal safety thresholds, bypassing voluntary manufacturer recall negotiations.
+Domain III: Federal Nutrition Programs (SNAP, WIC, School Lunches)
+Restricting SNAP and WIC Benefits from Ultra-Processed Foods
+The USDA Food and Nutrition Service (FNS), operating under Section 1115 demonstration waiver authority (7 U.S.C. § 2011 et seq.) and updated administrative rulemakings, must establish restrictions on eligible food purchases under the Supplemental Nutrition Assistance Program (SNAP) and the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC). Drawing upon approved state-level pilot initiatives—such as Montana's SNAP waiver restricting high-sugar beverages, candy, and energy drinks, and Iowa's legislative models—FNS will issue national guidance authorizing states to exclude specific categories from benefit redemption:
+* Sugar-sweetened beverages containing added caloric or non-caloric synthetic sweeteners.
+* Confectionery items, commercial candy, and high-sugar bakery goods.
+* NOVA Group 4 UPFs containing certified petroleum dyes or synthetic emulsifiers.
+To enforce these restrictions seamlessly at retail checkout, FNS will maintain a centralized Universal Product Code (UPC) database integrated directly into Electronic Benefit Transfer (EBT) point-of-sale systems to screen and approve eligible whole foods while declining restricted items.
+Restructuring SNAP-Ed for Culinary and Metabolic Literacy
+The USDA FNS must overhaul Supplemental Nutrition Assistance Program Education (SNAP-Ed) guidelines under 7 C.F.R. Part 272. Direct grant funding provided to state agencies will be restricted to evidence-based programs focusing on:
+* Basic culinary skills and whole-food meal preparation using unprocessed ingredients.
+* Community gardening, urban agriculture, and local food preservation techniques.
+* Metabolic health literacy, emphasizing the physiological mechanics of insulin resistance, systemic inflammation, and chronic disease reversal.
+Funding for passive administrative campaigns, printed marketing materials, or interventions promoting processed food consumption will be defunded.
+Updating National School Lunch Program Standards
+The USDA must issue a final rule amending 7 C.F.R. Parts 210 and 220, updating meal patterns for the National School Lunch Program (NSLP) and School Breakfast Program.
+Old NSLP Standard: Processed inputs, low-fat flavored milk (high sugar), HFCS allowed
+MAHA NSLP Standard: Scratch-cooked whole foods, full-fat whole milk, zero HFCS/dyes
+
+Key statutory and administrative updates include:
+* Complete prohibition of high-fructose corn syrup, artificial food dyes, and synthetic preservatives across all school meal offerings.
+* Establishment of an added-sugar ceiling: no individual food item may contain more than 5 grams of added sugar, and total added sugars must not exceed 5% of total meal calories.
+* Restoration of organic, full-fat unflavored whole milk as an allowable meal component, rescinding previous restrictions on non-fat flavored milks.
+* Requirement that a minimum of 50% of meal program funds be allocated to scratch-cooked meals prepared from raw, whole agricultural inputs.
+Expanding Farmers' Market Incentives and GusNIP
+Congress must double authorization funding for the Gus Schumacher Nutrition Incentive Program (GusNIP) under Title IV of the Farm Bill. The USDA FNS will update program rules to expand Double Up Food Bucks initiatives, enabling SNAP recipients to receive a 1:1 dollar match (up to $30 daily) when purchasing fresh, locally grown, organic produce at registered farmers' markets, farm stands, and community-supported agriculture (CSA) networks.
+Legal Protections for State-Level Chemical Bans in Schools
+To safeguard states implementing stricter food chemical bans in school meals—such as state prohibitions on artificial dyes, potassium bromate, or propylparaben—against federal preemption or funding penalties, USDA must issue an administrative policy statement under 7 C.F.R. Part 210. This statement confirms that state laws enforcing higher nutritional or chemical safety standards than federal baselines do not violate NSLP participation agreements and will not jeopardize federal reimbursement rates.
+Integrating Farm-to-School Supply Chains into Baseline Budgeting
+The USDA Farm to School Program, authorized under Section 18 of the Richard B. Russell National School Lunch Act (42 U.S.C. § 1769), must be converted from a competitive grant system into a baseline-budgeted entitlement program. Under the revised framework, school food authorities receive direct operational reimbursements covering the cost differential associated with procuring fresh produce, pastured meats, and dairy directly from regional agricultural producers located within 200 miles of the school district.
+Program Exemption versus Restriction Matrix
+To maintain operational clarity across federal nutrition programs, food items will be evaluated against standardized biological and processing metrics.
+Metric
+	Program Eligibility Threshold
+	Program Exclusion Threshold
+	NOVA Classification
+	Group 1 (Unprocessed) or Group 3 (Simple Processed)
+	Group 4 (Ultra-Processed).
+	Added Sugar Content
+	Less than or equal to 2 grams per serving
+	Greater than 5 grams per serving
+	Processing Inputs
+	Whole-fat matrices, natural cold-pressed oils
+	Solvent-extracted seed oils, hydrogenated fats
+	Chemical Additives
+	Zero petroleum dyes, zero synthetic emulsifiers
+	Presence of certified FD&C dyes or synthetic texturizers.
+	Direct Institutional Procurement Access for Local Food Hubs
+The GSA and USDA must establish a simplified procurement pathway under Federal Acquisition Regulation (FAR) Part 13 allowing regional food hubs, agricultural co-ops, and small family farms to bid directly on institutional federal procurement contracts for military bases, federal prisons, and public school consortiums. Bidding protocols will waive corporate indemnification bonding requirements for small-scale producers grossing under $2.5 million annually, providing direct technical compliance assistance through USDA local extension offices.
+Clean Drinking Water Infrastructure in Public Schools
+HHS, USDA, and the Environmental Protection Agency (EPA) must collaborate to launch the Safe Water in Schools Initiative. Public school districts receiving Title I federal assistance must install point-of-use water purification infrastructure—utilizing reverse osmosis or advanced activated carbon block filtration—in all drinking fountains and cafeteria water stations. The filtration systems must be independently verified to remove microplastics, PFAS, heavy metals (lead, copper), pesticide runoff, and municipal fluoride additives prior to consumption.
+Tracking Metabolic Health Outcomes in Assistance Programs
+The USDA FNS, in partnership with the CDC National Center for Health Statistics, must implement a longitudinal study tracking public health outcomes among federal nutrition program participants. Utilizing de-identified, aggregated baseline data, the initiative will track community-level markers including pediatric obesity incidence, HbA1c levels, fasting insulin, and non-alcoholic fatty liver disease (NAFLD) prevalence across zip codes implementing whole-food restrictions compared to historical baselines.
+Domain IV: Environmental Toxins, Pesticides, and Water Quality
+Systematic EPA Re-Evaluation of High-Risk Pesticides
+The EPA Office of Pesticide Programs, operating under the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA, 7 U.S.C. § 136 et seq.) and the Food Quality Protection Act (FQPA, 21 U.S.C. § 346a), must initiate an expedited toxicological re-evaluation of three primary pesticide classes:
+* Glyphosate: Re-evaluating non-target physiological disruption, endocrine pathways, carcinogenic risk profiles, and intestinal microbiome degradation.
+* Atrazine: Re-evaluating endocrine-disrupting potencies, gonadal dysgenesis, aromatase induction, and persistent aquatic runoff.
+* Neonicotinoids (Imidacloprid, Clothianidin, Thiamethoxam): Re-evaluating neurotoxicity, systemic plant bioaccumulation, and pollinator disruption.
+The EPA must revise maximum tolerance levels for agricultural commodities down to near-zero detection limits, driving an administrative phase-out of high-risk synthetic agrochemicals.
+Legal Liability Frameworks for Chemical Runoff
+Federal policies governing agricultural runoff under Section 319 of the Clean Water Act (33 U.S.C. § 1329) must be strengthened. EPA, in coordination with the Department of Justice (DOJ), will establish a civil liability framework under which chemical manufacturers—rather than individual small-scale farmers—bear primary legal and financial liability for off-target environmental damage, municipal groundwater contamination, and soil biome destruction caused by persistent synthetic pesticides and herbicides.
+HHS National Guidance on Municipal Water Fluoridation
+HHS, under the authority of the Public Health Service Act (42 U.S.C. § 241), must issue updated national recommendations regarding municipal water fluoridation. Citing recent toxicological reviews and National Toxicology Program (NTP) assessments linking systemic ingestion of industrial fluorosilicic acid during early child development to neurodevelopmental risks, lowered IQ, and thyroid disruption, HHS will officially revise its recommended drinking water fluoride concentration from 0.7 mg/L down to 0.0 mg/L. Municipalities choosing to continue artificial fluoridation will forfeit federal water infrastructure modernization grants.
+Overhauling the EPA Integrated Risk Information System
+The EPA must reform the Integrated Risk Information System (IRIS) program to accelerate toxicological assessments. The reform protocol requires:
+* Mandatory completion of toxicological evaluations within 18 months of initiation.
+* Elimination of industry-funded toxicological studies from primary systematic review synthesis unless raw data is publicly disclosed and independently replicated.
+* Integration of high-throughput organ-on-a-chip and computational toxicology models to evaluate multi-chemical exposure synergies.
+Federal Standards for Microplastics in Municipal Tap Water
+The EPA Water Office, operating under the Safe Drinking Water Act (SDWA, 42 U.S.C. § 300f et seq.), must establish enforceable Maximum Contaminant Level Goals (MCLGs) and Maximum Contaminant Levels (MCLs) for microplastic particles and nanoplastics in municipal drinking water systems. Municipal water utilities serving more than 10,000 customers will be required to conduct quarterly light-scattering and spectroscopic testing, deploying ultrafiltration systems to ensure microplastic levels remain below safety thresholds.
+Gut Microbiome Disruption Testing in Pesticide Registration
+The EPA must revise FIFRA data requirements under 40 C.F.R. Part 158 to mandate long-term gut microbiome toxicity testing for all prospective and existing active pesticide ingredients. Applicants seeking product registration or re-evaluation must submit 90-day animal toxicity studies evaluating alterations in gut microbial diversity, short-chain fatty acid production, and epithelial tight-junction integrity.
+Disclosure of Inert Ingredients in Commercial Agrochemicals
+The EPA must eliminate the proprietary commercial protection granted to inert ingredients in pesticide formulations. Under revised FIFRA rules, agrochemical manufacturers must disclose all adjuvants, surfactants (such as polyethoxylated tallowamine), solvents, and emulsifiers on product labels and Safety Data Sheets (SDS). Ingredients designated as inert will be subjected to the exact same toxicological safety evaluations as active pesticide inputs.
+Enforceable Limits on PFAS Chemicals in Agricultural Biosolids
+HHS, FDA, and EPA must issue joint regulations prohibiting the land application of industrial sewer sludge and agricultural biosolids containing detectable levels of per- and polyfluoroalkyl substances (PFAS). EPA will establish strict soil concentration limits under the Resource Conservation and Recovery Act (RCRA, 42 U.S.C. § 6901 et seq.) to prevent PFAS bioaccumulation in grazing cattle, crops, and rural drinking water aquifers.
+Municipal Grants for Advanced Filtration Infrastructure
+Congress must authorize $5 billion in direct capital infrastructure grants through the EPA Drinking Water State Revolving Fund. Grants will be prioritized for small, medium, and low-income municipal water systems to install advanced treatment technologies—specifically Reverse Osmosis, Granular Activated Carbon, and Advanced Oxidation Processes—capable of eliminating persistent PFAS, pesticide residues, microplastics, and pharmaceutical trace contaminants.
+National Environmental Public Health Tracking Database
+The CDC National Center for Environmental Health must expand and integrate the National Environmental Public Health Tracking Network across all 50 states. The unified, open-access database will aggregate spatial mapping of agricultural chemical application volumes, municipal tap water contaminants, industrial point-source emissions, and real-time electronic health record data to track epidemiological correlations between environmental toxin hot-spots and local chronic disease clusters.
+Domain V: NIH Research Re-allocation and Scientific Transparency
+Realignment of NIH Funding toward Root Causes
+The National Institutes of Health (NIH), operating under authority granted by the Public Health Service Act, must execute a fundamental realignment of its $48 billion annual research budget. Directives issued to the NIH Director and Institute Directors will require:
+* Reallocation of a minimum of 30% of total research grant funding toward root-cause investigations, nutritional therapeutics, metabolic disease reversal, circadian biology, and environmental toxicology.
+* Creation of a dedicated NIH Institute for Metabolic Health and Disease Prevention.
+* Restructuring funding allocations away from historical models—which directed roughly 80% of resources toward single-target pharmaceutical symptom management—toward a balanced allocation supporting whole-person metabolic research, environmental toxicology, and foundational biological mechanisms.
+Capping NIH Indirect Cost Overhead Reimbursements
+To eliminate financial distortion and force academic medical centers to spend research funds directly on laboratory science, the NIH must issue administrative revisions to 45 C.F.R. Part 75. Indirect cost reimbursements—officially designated as Facilities and Administrative (F&A) rates, which currently reach 50% to 65% at major research universities—will be capped at a maximum baseline rate of 15% across all NIH grant awards. Savings, estimated at over $4 billion annually, will be redirected entirely to direct peer-reviewed scientific awards.
+Mandating Open-Access Raw Data Publication
+The NIH must mandate that all clinical trials, observational studies, and scientific research fully or partially funded by federal taxpayer dollars publish raw, anonymized primary datasets, laboratory notes, analytical code, and negative trial outcomes within 90 days of study completion. Data must be deposited in open-access public repositories under Creative Commons licensing. Withholding raw data will result in immediate grant revocation and a five-year debarment from receiving federal scientific awards.
+Longitudinal Studies on Childhood Disease Triggers
+The NIH, through the National Institute of Child Health and Human Development, must establish a 20-year multi-cohort prospective study tracking 100,000 American children from pregnancy through early adulthood. The study will evaluate environmental triggers associated with childhood chronic illness, specifically investigating:
+* Cumulative, combination exposures to childhood vaccines and pharmacological interventions.
+* Dietary consumption of UPFs, petroleum dyes, and high-fructose corn syrup.
+* Exposure to pesticides, PFAS, microplastics, and electromagnetic fields.
+* Microbiome development, auto-immune conditions, autism spectrum disorders, and pediatric metabolic disease.
+Research into Electromagnetic Fields and Digital Media Impact
+The NIH National Institute of Environmental Health Sciences must establish dedicated research programs investigating the physiological and neurodevelopmental impacts of non-ionizing radiofrequency electromagnetic field (EMF) exposures and screen-time habits. Key areas of investigation include:
+* Screen-mediated blue light disruption of pediatric melatonin synthesis and circadian clock gene expression.
+* Biological effects of high-density wireless communication frequencies on cellular voltage-gated calcium channels, blood-brain barrier permeability, and oxidative stress.
+* Digital media design structures and their impact on pediatric dopamine signaling, attention deficits, and chronic anxiety.
+Eliminating Conflicts on NIH Peer-Review Panels
+HHS and NIH must enforce ethical bans prohibiting scientists, clinicians, or academic department chairs with active research funding, consulting contracts, or equity positions in pharmaceutical, agrochemical, or industrial food corporations from serving on NIH Scientific Review Groups, Advisory Councils, or grant allocation committees. Under the review protocol, all candidate reviewers must undergo mandatory financial tie screenings, resulting in immediate disqualification if active industry compensation is identified.
+Incentivizing Non-Pharmaceutical Intervention Research
+The NIH National Center for Complementary and Integrative Health must be restructured into the National Center for Whole-Person-Health and Lifestyle Therapeutics. The center will receive prioritized funding to conduct clinical trials evaluating non-pharmaceutical interventions, including:
+* High-fat, low-carbohydrate ketogenic diets and therapeutic fasting for reversing type 2 diabetes and metabolic syndrome.
+* Targeted botanical compounds and nutritional supplementation for resolving chronic inflammation.
+* Exercise physiology, resistance training, and circadian light therapies for treating chronic depression and neurodegenerative disorders.
+Streamlining NIH Grant Processing for Innovative Hypotheses
+The NIH Director must overhaul the Center for Scientific Review grant evaluation process. To prevent institutional bias and encourage scientific innovation, 15% of all NIH R01 research grants will be allocated through a blind, high-risk/high-reward review mechanism where scientific proposals are evaluated without panel knowledge of investigator identity, academic affiliation, or historical institutional prestige, prioritizing non-mainstream, paradigm-shifting hypotheses.
+Enforcing Open-Source Scientific Replication Studies
+To address the systemic replication crisis in biomedical science, the NIH must create the Independent Scientific Replication Program. Under this mechanism, 5% of the total NIH research budget will be explicitly reserved for independent laboratory networks tasked with replicating landmark, high-impact studies used to establish national public health guidelines or FDA approvals before those findings can serve as the baseline for federal policy decisions.
+Whistleblower Protections within Federal Scientific Agencies
+Congress must enact the Public Health Scientific Whistleblower Protection Act, amending the Whistleblower Protection Act of 1989 (5 U.S.C. § 2302) to provide legal protections for civil service scientists, medical officers, and researchers within HHS, FDA, CDC, NIH, and EPA. The law imposes criminal penalties on agency administrators who retaliate against, demote, silence, or terminate civil service scientists who expose regulatory capture, suppressed safety data, or fraudulent scientific practices.
+Domain VI: Restructuring HHS, CDC, and Federal Health Agencies
+Consolidating HHS into the Administration for a Healthy America
+HHS must execute an administrative reorganization under 5 U.S.C. § 901, consolidating overlapping divisions to eliminate operational duplication and administrative overhead. The reorganization replaces 15 fragmented sub-agencies with a unified Administration for a Healthy America (AHA) structured into three operational pillars:
+* Division of Metabolic Health and Prevention: Focuses on chronic disease reversal, lifestyle therapeutics, and physical wellness programs.
+* Division of Food and Agricultural Safety: Oversees regulatory compliance, additive reviews, labeling enforcement, and soil health integration.
+* Division of Independent Scientific Research: Coordinates uncaptured research funding, open data repositories, and replication studies.
+The reorganization will streamline administrative leadership, reallocating savings toward direct public health grant funding for local community health systems.
+Decoupling CDC Guidance from Commercial Operations
+The Centers for Disease Control and Prevention (CDC) must undergo a statutory decoupling to eliminate commercial conflicts of interest. Congress must amend the Public Health Service Act to:
+* Prohibit the CDC, the CDC Foundation, or agency employees from holding, licensing, or receiving royalty payments from patents on vaccines, diagnostic tools, or therapeutic drugs.
+* Ban the CDC Foundation from accepting financial donations, corporate sponsorships, or grants from pharmaceutical manufacturers, chemical corporations, or processed food conglomerates.
+* Limit the CDC's mandate strictly to epidemiological surveillance, data collection, and emergency outbreak response, revoking its authority to issue commercial marketing guidance or broad socio-economic mandates.
+Restructuring the CDC Advisory Committee on Immunization Practices
+The charter for the CDC Advisory Committee on Immunization Practices (ACIP) must be revoked and rewritten under FACA regulations. The new charter mandates that:
+* No voting member of ACIP may have received research funding, honoraria, consulting fees, or stock options from any vaccine manufacturer or patent-holding institution within the preceding seven years.
+* Voting deliberations must be live-streamed publicly, with raw clinical data review dockets published 60 days prior to any recommendation vote.
+* All recommended childhood vaccine schedule changes must undergo formal independent ethics and safety review by an uncaptured panel of independent pediatricians, toxicologists, and biostatisticians.
+Downsizing and Re-Tasking HHS Regional Offices
+The ten HHS Regional Offices will be downsized by 50% in administrative staffing. Remaining regional personnel will be reassigned from policy enforcement to direct field operations, collaborating with state departments of agriculture and local health departments to establish regional food hubs, expand metabolic health clinics, and support direct farm-to-community distribution systems.
+Statutory Prohibitions on Revolving Door Employment
+Congress must enact legislation amending 18 U.S.C. § 207, establishing a mandatory five-year post-employment cooling-off period. Under this statute:
+* Executive-level personnel, scientific reviewers, and advisory panel members employed by HHS, FDA, CDC, or NIH are strictly prohibited from accepting employment, board positions, or consulting fees from any company regulated by these agencies.
+* Former executives, lobbyists, or consultants of regulated pharmaceutical, chemical, or food corporations are prohibited from serving in executive leadership positions within HHS or its sub-agencies.
+Restricting Agency Promotion of Single-Source Pharmaceuticals
+HHS policy guidelines must be updated to restrict agency communications, public health alerts, and educational campaigns from promoting single-source pharmaceutical products or novel medical interventions as primary public health solutions when lifestyle, dietary, or environmental risk-factor modifications demonstrate clinical efficacy. Public communications must prioritize non-pharmacological lifestyle interventions, positioning single-source therapeutics as secondary options.
+Auditing and Eliminating Administrative Overhead
+The Office of Management and Budget (OMB), in conjunction with the HHS Inspector General, must conduct a performance audit across all 15 HHS sub-agencies. The audit will identify redundant administrative functions, managerial bloat, and overlapping programs, establishing a target to reduce total HHS central administrative overhead expenses by 20% within 18 months, with recovered funds directed to grassroots metabolic health pilot programs.
+Establishing an Independent HHS Ombudsman for Regulatory Capture
+Congress must enact legislation creating the independent Office of the Public Health Ombudsman, operating outside the administrative chain of command of HHS. The Ombudsman will be appointed for a non-renewable seven-year term by a bipartisan congressional panel. The office will possess full subpoena authority to investigate citizen complaints regarding regulatory capture, suppression of health safety data, agency conflicts of interest, and improper corporate influence over regulatory approvals.
+Real-Time Transparency for Agency Directives and Rulemaking
+HHS must institute an open-government directive requiring all sub-agencies (FDA, CDC, NIH, CMS) to publish administrative dockets, meeting transcripts, agency correspondence with regulated industry representatives, and raw data files on a public portal within 48 hours of generation. Emergency public health directives or guidance documents issued without full public docket transparency will be rendered legally null and void under the Administrative Procedure Act (APA, 5 U.S.C. § 553).
+Workforce Incentives Aligned with Chronic Disease Reduction
+The Office of Personnel Management (OPM) and HHS must restructure Senior Executive Service (SES) performance awards and agency workforce incentives. Executive bonuses and performance evaluations will be tied directly to measurable, population-level reductions in national chronic disease metrics—including documented decreases in state-level pediatric obesity, type 2 diabetes incidence, and reduced federal healthcare expenditures—aligning civil service compensation with public health outcomes.
+Domain VII: Chronic Disease Prevention and Healthcare Payment Models
+Medicare and Medicaid Reimbursement for Lifestyle Medicine
+CMS must update Title XVIII (Medicare) and Title XIX (Medicaid) reimbursement codes (CPT/HCPCS) under authority granted by the Social Security Act. The revisions will establish fee-schedule coverage for:
+* Medically Tailored Meals: Fully covered fresh, whole-food meal delivery for patients diagnosed with metabolic syndrome, type 2 diabetes, or cardiovascular disease.
+* Dietitian and Metabolic Counseling: Expanding coverage for intensive, non-UPF dietary intervention counseling provided by certified nutrition professionals.
+* Exercise Prescriptions: Reimbursement for accredited clinical exercise physiologists and structured medical fitness programs.
+HSA and FSA Coverage Expansion for Preventative Health
+Congress must amend Section 223 of the Internal Revenue Code (26 U.S.C. § 223) governing Health Savings Accounts (HSAs) and Flexible Spending Accounts (FSAs). Qualified medical expenses will be expanded to include gym memberships, certified personal training, organic whole-food produce subscriptions, community-supported agriculture (CSA) shares, and preventative metabolic tracking tools such as Continuous Glucose Monitors (CGMs). Taxpayers will be permitted to utilize pre-tax HSA/FSA funds for these expenses without requiring a formal physician diagnosis of established disease.
+Transitioning Healthcare Coverage to Value-Based Outcome Models
+CMS must accelerate the transition away from Fee-for-Service reimbursement toward Value-Based Alternative Payment Models through the Center for Medicare and Medicaid Innovation. Accountable Care Organizations and healthcare providers will receive capitated shared-savings bonuses tied directly to objective metabolic disease reversal markers:
+* HbA1c reduction below 5.7% without pharmaceutical reliance.
+* Deprescribing rates of chronic metabolic medications, including statins, anti-hypertensives, and oral hypoglycemics.
+* Resolution of non-alcoholic fatty liver disease (NAFLD) confirmed via diagnostic imaging.
+Mandating Zero-Copay Advanced Metabolic Health Screenings
+Under authority granted by Section 2713 of the Patient Protection and Affordable Care Act (ACA, 42 U.S.C. § 300gg-13), the U.S. Preventive Services Task Force must issue updated Grade A recommendations requiring all commercial health insurance plans, Medicare, and Medicaid to cover comprehensive baseline metabolic health screenings with zero patient copay or deductible. The mandated panel includes fasting insulin, HOMA-IR, Hemoglobin A1c, high-sensitivity C-reactive protein (hs-CRP), Apolipoprotein B (apoB), and NMR lipoprofiles.
+Incentivizing Healthcare Systems to Hire Lifestyle Specialists
+CMS and the Health Resources and Services Administration must modify Graduate Medical Education funding allocations. Academic teaching hospitals will receive financial bonuses for establishing residency positions and fellowship programs accredited by the American Board of Lifestyle Medicine. Furthermore, Federally Qualified Health Centers will receive enhanced billing reimbursement ratios when integrating certified lifestyle medicine physicians into primary care teams.
+Anti-Discrimination Protections for Utilizing Alternative Therapies
+Department of Labor, HHS, and Department of the Treasury regulations under the ACA non-discrimination provisions (42 U.S.C. § 300gg-5) must be updated to prohibit commercial health insurance carriers from raising premium rates, denying coverage, or imposing financial surcharges on individuals who choose certified alternative, non-pharmaceutical, or lifestyle-based therapeutic modalities in lieu of standard pharmacological treatments.
+Medicaid Block Grants for Community-Based Interventions
+CMS must issue updated guidance under Section 1115 demonstration authority authorizing states to utilize Medicaid block grant funding with maximal flexibility. States may allocate up to 15% of total Medicaid program funds directly into community-level non-clinical health drivers, including funding regional regenerative farm hubs, municipal fresh produce voucher programs, local exercise facilities, and community-led cooking facilities.
+Expanding Non-Profit Direct Primary Care Models
+Congress must amend Title XXI of the Social Security Act and the Internal Revenue Code to explicitly confirm that Direct Primary Care (DPC) medical agreements do not constitute insurance products, preventing burdensome state-level insurance regulation. HHS will establish a $500 million grant program supporting the expansion of non-profit DPC clinics in medically underserved rural and urban communities, providing low-cost access to continuous primary care unencumbered by insurance billing overhead.
+Federal Employees Health Benefits Model Blueprint
+The Office of Personnel Management must rewrite coverage guidelines for the Federal Employees Health Benefits (FEHB) program—serving over 8 million federal employees and dependents—to establish it as the national gold-standard model for preventative care. The FEHB plan will incorporate zero-copay lifestyle prescriptions, fully covered CGMs for metabolic health tracking, HSA whole-food purchasing allowances, and financial incentives for employees achieving measurable metabolic disease reversal.
+Guardrails for Corporate Wellness Incentives
+The Department of Labor Employee Benefits Security Administration must amend regulations under the Health Insurance Portability and Accountability Act wellness provisions (29 C.F.R. § 2590.702). Corporate wellness programs will be prohibited from imposing punitive health insurance surcharges on employees based on static biometric measurements. Instead, incentive structures must reward voluntary employee participation in verified lifestyle behaviors, nutritional education, and metabolic improvement programs, protecting worker privacy and biometric data sovereignty.
+Domain VIII: Pediatric Health, Obesity, and Lifestyle Interventions
+Executive Initiatives Combating Pediatric Metabolic Disease
+HHS, USDA, and the Department of Education (ED) must launch a joint executive initiative targeting the childhood chronic disease epidemic, focusing on pediatric obesity, prediabetes, non-alcoholic fatty liver disease (NAFLD), and autoimmune allergies. The inter-agency task force establishes clear operational pillars:
+* Eliminating processed cafeteria inputs through scratch-cooking conversions.
+* Enforcing mandatory physical recess and outdoor learning protocols in public education.
+* Instituting clinical safeguards against pediatric overmedication.
+The multi-agency strategy outlines clear goals: achieving a 50% reduction in pediatric prediabetes and NAFLD rates by 2030 through structural shifts in diet, outdoor physical activity, and environmental chemical reduction.
+Mandating Minimum Daily Recess in K-12 Public Schools
+The Department of Education, in conditioning federal Title I grants under the Elementary and Secondary Education Act (20 U.S.C. § 6301 et seq.), must establish a mandatory guideline requiring all recipient K-12 elementary and middle schools to provide students with a minimum of 30 minutes of unstructured daily outdoor recess. Drawing upon state legislative blueprints—such as South Carolina's HB 3195—the rule strictly prohibits withholding recess as a disciplinary measure for more than two days per week and mandates that recess time cannot count toward structured physical education academic requirements.
+Restricting Screen Time and Personal Devices in K-8 Schools
+The Department of Education, drawing on state legislative models such as Iowa's HF 2676, must issue federal guidance recommending that public school districts receiving federal assistance restrict personal electronic devices during instructional hours for grades K-8. Additionally, the Surgeon General will launch an awareness initiative highlighting the physiological impacts of excessive screen exposure—including pediatric executive function disruption, circadian rhythm degradation, and physical sedentariness—while providing technical assistance to districts transitioning to print-based instructional materials.
+Reimagining the President's Council on Sports, Fitness & Nutrition
+President Trump will issue an Executive Order updating the charter of the President's Council on Sports, Fitness & Nutrition (PCSFN). The reimagined council will pivot away from passive marketing toward establishing physical literacy, functional movement, and metabolic conditioning in core K-12 physical education curricula. The PCSFN will establish national baseline physical fitness assessments evaluating cardiorespiratory endurance, muscular strength, and mobility, providing federal recognition awards to high-performing schools.
+Mitigating Pediatric Overprescription of Medications
+HHS must establish an Inter-Agency Pediatric Mental Health and Medication Working Group comprising officials from the FDA, CDC, and SAMHSA. Operating in alignment with the Make Our Children Healthy Again Strategy, the working group will evaluate prescription trends for selective serotonin reuptake inhibitors (SSRIs), atypical antipsychotics, stimulants, and GLP-1 receptor agonists in pediatric populations. CMS will implement prior authorization safeguards within state Medicaid programs, requiring documented non-pharmacological, lifestyle, and dietary interventions as required first-line therapies prior to federal reimbursement of chronic psychotropic or metabolic drug prescriptions for minors.
+Public Health Campaigns on Circadian Biology and Sleep
+The CDC National Center for Chronic Disease Prevention and Health Promotion must design a nationwide public health education campaign focused on circadian biology and pediatric sleep architecture. The campaign will educate parents, educators, and pediatricians on:
+* The physiological importance of early-morning outdoor natural sunlight exposure for anchoring pediatric circadian rhythms.
+* The destructive effects of evening artificial blue light exposure from screens on nocturnal growth hormone release and insulin sensitivity.
+* The direct causal connection between chronic pediatric sleep fragmentation, metabolic dysfunction, and behavioral misdiagnoses.
+Restricting Digital Advertising of High-Sugar Foods to Children
+The FTC, operating under Section 5 authority (15 U.S.C. § 45) to prohibit unfair or deceptive practices, must issue trade regulation rules restricting targeted digital advertising of sugar-sweetened beverages, commercial candy, and NOVA Group 4 UPFs to children under 16 across internet platforms, social media apps, and video streaming services. The rules will classify algorithmic neuro-targeting and influencer marketing of low-nutrient foods to minors as an inherently unfair commercial practice.
+Grants for Athletic Infrastructure in Low-Income Areas
+Department of Housing and Urban Development (HUD) and USDA Community Facilities programs will prioritize capital grants for constructing community athletic infrastructure, outdoor parks, public swimming pools, and safe physical activity zones in lower-income urban and rural neighborhoods. Priorities will focus on providing underserved pediatric populations with open-access, safe environments for year-round unstructured play and organized athletics.
+Transitioning Cafeterias to Scratch-Cooked Whole Foods
+The USDA Food and Nutrition Service must allocate $1 billion in capital equipment grants to help public school districts replace heat-and-serve commercial warming ovens with commercial kitchen equipment, cold storage, and scratch-cooking preparation lines. USDA will establish regional culinary training academies to train school food service staff in whole-food preparation, meal planning, and direct farm sourcing.
+Reforming Early Childhood Programs
+The HHS Administration for Children and Families must update regulations governing Head Start (45 C.F.R. Chapter XIII) and the Child Care and Development Fund (CCDF, 45 C.F.R. Part 98). The updated regulations require:
+* Complete alignment of early childhood meal patterns with CACFP whole-food standards, excluding UPFs and high-fructose corn syrup.
+* Mandatory daily outdoor, nature-based learning components lasting at least 60 minutes.
+* Expanded parental choice provisions, allowing parents to opt out of standardized institutional dietary or developmental interventions.
+Domain IX: Scientific Transparency, Data Freedom, and Medical Individual Freedom
+Mandating Public Access to Anonymized Raw Health Datasets
+Congress must enact the Public Health Data Freedom Act, requiring all federal health agencies (CMS, CDC, FDA, NIH) to make fully de-identified, raw epidemiological, clinical trial, and health outcomes datasets publicly available on centralized digital repositories. The datasets—including CMS Medicare/Medicaid claims data and National Health and Nutrition Examination Survey raw files—must be published in open, machine-readable formats while preserving strict individual HIPAA privacy protections, enabling independent researchers to replicate agency findings.
+Guaranteeing Patient Ownership and Interoperability of Records
+Title IV of the 21st Century Cures Act (42 U.S.C. § 300jj-11 et seq.) must be updated to establish absolute individual ownership over complete personal electronic health records. Federal law will mandate that patients possess instant, direct, unconditioned digital portability of their entire medical file—including diagnostic images, laboratory results, genomic sequencing, and clinical notes—via standardized, open-access APIs without incurring fees or administrative delay.
+Prohibiting Federal Coercion and Censorship on Digital Platforms
+Congress must amend Title 42 of the U.S. Code to enact statutory prohibitions preventing executive branch officials, federal agency employees, or contractors within HHS, FDA, CDC, or NIH from directly or indirectly requesting, pressuring, coercing, or coordinating with private social media platforms, search engines, or media corporations to censor, downgrade, shadowban, or restrict constitutionally protected scientific debate, dissenting medical opinions, or public health discussions.
+Protecting Licensed Clinicians Prescribing Off-Label Modalities
+HHS, in establishing federal healthcare participation guidelines, must enact anti-retaliation protections for state-licensed medical practitioners. Federal administrative action will prohibit state medical licensing boards from revoking licenses, penalizing, or retaliating against clinicians who prescribe legal off-label repurposed medications or employ evidence-based non-mainstream metabolic and nutritional therapies, provided full informed consent is documented.
+Updating Federal Informed Consent Mandates
+HHS must revise the Common Rule (45 C.F.R. Part 46) governing protection of human subjects in research and medical practice. Federal informed consent mandates must be expanded to require that prior to the administration of any pharmaceutical product, biologic, or vaccine, the patient must be provided with a standardized written disclosure detailing:
+* Absolute risk reduction (ARR) alongside relative risk reduction (RRR) metrics.
+* Complete toxicological profiles, including potential long-term cellular or metabolic side effects.
+* Full disclosure of manufacturer corporate liability exemptions and federal injury compensation mechanisms.
+* Specific financial conflicts of interest or institutional funding received by the prescribing or recommending entity.
+Restricting Direct-to-Consumer Pharmaceutical Advertising
+The FTC and FDA must enforce strict joint regulatory oversight over Direct-to-Consumer Pharmaceutical Advertising (DTCPA) across television, radio, digital media, and social platforms. Key statutory and administrative changes include:
+* Re-evaluating historical FDA guidance documents that relaxed print-ad summary requirements, forcing broadcast advertisements to detail all major side effects, black-box warnings, and absolute risk reduction statistics in high-contrast text.
+* Eliminating corporate tax deductibility for direct-to-consumer drug advertising expenses under Internal Revenue Code Section 162.
+* Requiring broadcast outlets airing drug advertisements to provide equal airtime for federal public service announcements detailing non-pharmaceutical lifestyle and dietary interventions for the target condition.
+Codifying Individual Medical Freedom Rights
+Congress must pass statutory protections codifying individual medical rights and health freedom regarding federal directives. The legislation guarantees that no federal agency, recipient of federal funds, or employer operating in interstate commerce may:
+* Mandate or coerce any individual to undergo a medical procedure, pharmaceutical administration, or biological intervention.
+* Condition employment, access to public education, travel, or federal benefits upon compliance with a health directive or emergency use authorization.
+* Restrict individual access to non-controlled dietary supplements, botanicals, or natural health products.
+Ethical Standards Governing AI Diagnostics and Biometric Data
+HHS, in coordination with the Office of the National Coordinator for Health Information Technology, must establish an ethical and regulatory framework governing the deployment of Artificial Intelligence (AI) diagnostic tools and algorithmic healthcare platforms. Regulations must mandate:
+* Full open-source transparency of underlying diagnostic algorithms, training datasets, and decision-tree logic.
+* Absolute prohibition on commercializing or selling individual patient biometric, genetic, or continuous monitoring tracking data.
+* Mandatory human-clinician oversight for all AI-generated therapeutic or diagnostic directives, protecting patient autonomy and biometric sovereignty.
+Mandating Open Publication of Negative Clinical Trial Results
+Congress must amend Section 402(j) of the Public Health Service Act (42 U.S.C. § 282(j)) regarding the ClinicalTrials.gov registry. Sponsors of all human clinical trials conducted within the U.S. or utilized for FDA regulatory approvals must publish full, unedited clinical trial protocols, primary statistical analysis plans, and primary and secondary endpoint results—regardless of whether outcomes were positive, negative, non-conclusive, or aborted—within 90 days of study completion. Failure to comply will incur civil money penalties of $100,000 per day and immediate suspension of all related product review proceedings.
+Independent Peer Review of Public Health Modeling Algorithms
+Before any executive agency (CDC, HHS, EPA) may deploy mathematical models, epidemiological projections, or computational algorithms to justify public health directives, socio-economic regulations, or national emergency policies, the underlying computer code, data inputs, and structural assumptions must be placed in a public registry for independent scientific peer review. Federal courts will be granted statutory jurisdiction to enjoin any regulatory action premised upon non-disclosed, unverified, or proprietary public health algorithms.
+Domain X: Executive Strategy and Legislative Blueprint Execution
+Text of Overarching Executive Order
+To drive an all-of-government mandate, President Trump will issue Executive Order 14212 (Expanded Mandate) titled Directing Federal Agencies to Align Policies with Chronic Disease Elimination, Regulatory Uncapture, and Metabolic Restoration.
+The core operational structure of the Expanded Executive Order includes:
+* Section 1: All-of-Government Policy Realignment: Directs all federal agencies to evaluate policies against national chronic disease reduction goals.
+* Section 2: Inter-Agency Enforcement Matrix: Establishes coordinated enforcement protocols across HHS, USDA, EPA, and FTC.
+* Section 3: Defunding Regulatory Capture: Directs OMB to utilize budget reconciliation to eliminate user-fee dependencies and administrative bloat.
+* Section 4: Performance Evaluation: Ties agency budget allocations directly to measurable population metabolic outcomes.
+Key Operative Text:
+"Section 1. Policy Mandate. It shall be the explicit policy of the Executive Branch to align all federal administrative rules, grant allocations, procurement guidelines, and scientific research priorities toward drastically reducing chronic disease rates and ending the childhood chronic disease epidemic. Agencies shall systematically review and eliminate any administrative practice, regulatory loophole, or corporate subsidy that exacerbates chronic illness, promotes ultra-processed food consumption, or introduces chemical toxins into the human environment.
+"Section 2. Removal of Regulatory Capture. Heads of all executive departments shall immediately audit advisory panels, study sections, and regulatory review boards to eliminate corporate conflicts of interest, ban revolving-door employment practices, and ensure that gold-standard, transparent, open-source science serves as the sole foundation for federal public health directives."
+Inter-Agency Enforcement Memoranda of Understanding
+HHS, USDA, EPA, and FTC must execute formal Inter-Agency Memoranda of Understanding (MOUs) establishing a unified enforcement matrix:
+* HHS-USDA MOU: Synchronizing the NOVA Group 4 UPF definition across FDA labeling rules and USDA federal nutrition program eligibility.
+* EPA-USDA MOU: Coordinating agricultural runoff mitigation, establishing strict PFAS sludge land-application limits, and accelerating non-chemical weed management transitions.
+* FDA-FTC MOU: Streamlining joint enforcement against deceptive processed food health claims and digital marketing of UPFs to pediatric populations.
+Budget Reconciliation Instructions to Defund Regulatory Capture
+Congress, utilizing the budget reconciliation process under Section 310 of the Congressional Budget Act of 1974, will issue targeted reconciliation instructions to defund captured regulatory operations:
+* Striking user-fee collection authorizations under PDUFA, MDUFA, and GDUFA, replacing them with direct, firewalled budget appropriations.
+* Rescinding administrative funding for FDA offices overseeing voluntary GRAS self-affirmations.
+* Defunding CDC Foundation operational line-items and ACIP panel administration budgets until FACA conflict-of-interest mandates are executed.
+* Redirecting $2 billion from administrative overhead accounts across HHS and USDA directly into state-level regenerative agriculture and metabolic health block grants.
+Structure of the "Make America Healthy Act"
+Congress must enact the flagship statutory package: the Make America Healthy Act of 2026. The omnibus bill permanently codifies key executive directives into statutory law:
+* Title I: Food System Integrity and Agricultural Transition: Codifies NOVA Group 4 UPF definitions, restricts marketing to minors, and shifts Farm Bill crop insurance subsidies.
+* Title II: FDA Oversight, GRAS Elimination, and Chemical Safety: Mandates Food Additive Petitions, phases out petroleum dyes and endocrine disruptors, and mandates ingredient transparency.
+* Title III: Federal Nutrition Program Optimization: Establishes SNAP/WIC UPF restrictions, updates NSLP standards, and budgets farm-to-school supply chains.
+* Title IV: Healthcare Payment Reform and Preventative Access: Mandates Medicare/Medicaid coverage for lifestyle medicine, expands HSA/FSA usage, and establishes zero-copay screenings.
+* Title V: Scientific Freedom, Data Transparency, and Individual Rights: Enacts public data access, protects whistleblower scientists, bans federal platform censorship, and codifies medical freedom.
+OMB Key Performance Indicators for Cabinet Departments
+The Office of Management and Budget (OMB) will evaluate Cabinet Secretaries and agency heads during annual budget allocation reviews based on specific, measurable Key Performance Indicators (KPIs).
+Department / Agency
+	Core Key Performance Indicator Metric
+	Target Reduction Benchmark
+	Department of Health and Human Services (HHS)
+	Population-level HbA1c, pediatric NAFLD, and prediabetes incidence.
+	25% reduction across 36 months.
+	Department of Agriculture (USDA)
+	Percentage of Farm Bill funds allocated to specialty crops and regenerative farms.
+	40% shift in Title I and Title II allocations.
+	Environmental Protection Agency (EPA)
+	Microplastics, PFAS, and high-risk pesticide residues in drinking water aquifers.
+	50% decrease in water contamination levels.
+	Federal Trade Commission (FTC)
+	Enforcement actions against UPF digital marketing targeted at minors.
+	100% compliance across major media platforms.
+	State-Level Demonstration Pilots for Food-as-Medicine
+HHS and USDA will establish the State Health Innovation Blueprint, providing $1 billion in competitive demonstration grants to 10 pilot states. Pilot states will test integrated paradigms prior to national scaling:
+* Excluding all NOVA Group 4 UPFs from state SNAP and WIC redemptions.
+* Implementing mandatory scratch-cooking and whole-milk standards across public schools.
+* Providing direct Medicaid reimbursements for medically tailored meals and farm vouchers.
+* Eliminating petroleum food dyes in state-regulated food products.
+DOJ Defense Strategies Against Industry Litigation
+Following the Supreme Court's decision in Loper Bright Enterprises v. Raimondo—which overturned Chevron deference—federal courts no longer defer to agency interpretations of ambiguous statutes. The Department of Justice Civil Division, defending new FDA, EPA, and USDA regulations against anticipated litigation from food, chemical, and pharmaceutical trade associations, must deploy legal defense strategies premised upon:
+* Unambiguous Statutory Authorization: Ensuring all rules rely on explicit statutory mandates enacted under the Make America Healthy Act rather than broad administrative interpretations.
+* Exhaustive Administrative Record Building: Establishing an incontrovertible factual record filled with gold-standard, peer-reviewed bio-behavioral, toxicological, and metabolic data showing direct causation between chemical exposure and chronic disease.
+* Protection of State Police Powers: Defending state-level food chemical bans against industry preemption lawsuits by invoking Tenth Amendment police powers protecting local public health.
+Real-Time National Metabolic Health Dashboard
+HHS, in collaboration with the CDC and ONC, will build and deploy a public-facing, real-time online dashboard: Health.gov/Metabolic-Dashboard. The platform will aggregate real-time epidemiological data streams from CMS claims, NHANES raw files, and EPA water testing, tracking:
+* Zip-code-level prevalence of type 2 diabetes, obesity, HbA1c levels, and pediatric allergies.
+* Regional water system testing results for PFAS, microplastics, and pesticide residues.
+* UPF consumption ratios versus whole-food purchasing trends.
+* State-by-state progress on chronic disease reduction targets.
+Harmonizing Import and Export Chemical Safety Protocols
+The U.S. Trade Representative, in coordination with HHS and USDA, must adjust international trade policies. Agricultural import standards will be harmonized with international precautionary frameworks—such as the European Union's REACH regulations and strict food additive bans—prohibiting the entry of foreign food products containing agrochemicals, growth hormones, or petroleum dyes banned within the U.S. Concurrently, U.S. agricultural exports will transition away from monoculture chemical reliance to match rising international health safety standards.
+Comprehensive Multi-Stage Implementation Roadmap
+The execution of the MAHA blueprint is structured across three phased administrative horizons to ensure operational efficacy, legal resilience, and institutional compliance.
+| Implementation Horizon | Primary Policy Focus | Major Deliverables and Administrative Milestones | | :--- | :--- | :--- | | Phase I: The First 100 Days | Immediate Executive Action and Initial Assessments | President signs Expanded EO 14212. MAHA Assessment released. FDA initiates dye ban rulemaking. USDA approves initial state SNAP waivers. HHS updates water fluoridation targets. | | Phase II: The 180-Day Horizon | Strategy Finalization and Proposed Agency Rules | MAHA Strategy published. Inter-agency MOUs signed. Proposed rules published on GRAS elimination, FOP labeling, and school meal overhauls. NIH caps overhead at 15%. Grant allocations issued for state pilot programs. | | Phase III: The 365-Day Horizon | Statutory Codification and Final Enforcement | Congress passes the Make America Healthy Act. Final administrative rules take effect. PDUFA user fee transition executed. IRC § 223 HSA expansion implemented. Real-time dashboard launched (Health.gov/Metabolic-Dashboard). |
+Phase I: The First 100 Days
+* Days 1–30: President signs Executive Order 14212 establishing the MAHA Commission. HHS issues directives suspending advisory committee members with active industry financial conflicts.
+* Days 31–60: Release of the Make Our Children Healthy Again Assessment summarizing drivers of pediatric chronic disease. FDA publishes Federal Register notice initiating the phase-out of certified petroleum food dyes. USDA FNS approves pending state SNAP 1115 demonstration waivers.
+* Days 61–100: HHS issues updated national guidance revising municipal water fluoridation targets. EPA initiates FIFRA toxicological re-evaluations for glyphosate, atrazine, and neonicotinoids. OPM rewrites FEHB guidelines to cover lifestyle medicine prescriptions.
+### Phase II: The 180-Day Horizon
+* Days 101–130: Release of the comprehensive Make Our Children Healthy Again Strategy outlining over 120 targeted policy initiatives. HHS, USDA, EPA, and FTC execute formal Inter-Agency Enforcement MOUs.
+* Days 131–150: FDA issues proposed administrative rules closing the GRAS voluntary self-affirmation loophole and mandating Front-of-Pack processing grade labels. USDA issues proposed rules updating NSLP meal patterns, restoring whole milk, and banning high-fructose corn syrup.
+* Days 151–180: NIH issues revised grant guidelines capping university indirect cost overhead at 15% and establishing the 30% Whole-Person-Health allocation baseline. HHS and USDA issue $1 billion in state-level Food-as-Medicine pilot grants.
+Phase III: The 365-Day Horizon
+* Days 181–270: Congress introduces and debates the omnibus Make America Healthy Act. Proposed agency rulemakings complete APA notice-and-comment cycles, issuing final enforceable regulations.
+* Days 271–330: Enactment of the Make America Healthy Act. Expiration of PDUFA user fee collection provisions; Congress enacts direct baseline appropriations for FDA regulatory operations. Internal Revenue Code Section 223 amendments take effect, expanding HSA and FSA eligibility to whole foods, gym memberships, and metabolic health tracking tools.
+* Days 331–365: Full administrative enforcement of UPF restrictions across SNAP, WIC, and NSLP. Launch of the real-time public National Metabolic Health Dashboard (Health.gov/Metabolic-Dashboard). First annual OMB performance audit evaluating Cabinet Secretaries against chronic disease reduction Key Performance Indicators.
+Conclusion and Strategic Vision
+The Make America Healthy Again framework represents a structural shift in federal health, environmental, and agricultural policy. By reorienting federal priorities away from corporate regulatory capture and pharmaceutical symptom management toward root-cause elimination, systemic food reform, environmental toxicant reductions, and complete administrative transparency, this blueprint restores the fundamental integrity of America's public health institutions.
+Executing this strategy requires administrative resolve, precise statutory drafting, and continuous inter-agency coordination. By eliminating regulatory loopholes, aligning federal spending with metabolic disease reversal, and empowering individuals with transparent science and medical freedom, the federal government can reverse the chronic illness epidemic, protect the biological vitality of future generations, and fulfill the core mandate to Make America Healthy Again.
+Works cited
+1. Fact Sheet: President Donald J. Trump Establishes the Make America Healthy Again Commission - The White House, https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-establishes-the-make-america-healthy-again-commission/ 2. Make America Healthy Again (MAHA) - HHS.gov, https://www.hhs.gov/maha/index.html 3. Make America Healthy Again Commission Aims To Combat Chronic Disease and Reform Health Policies | Skadden, Arps, Slate, Meagher & Flom LLP, https://www.skadden.com/insights/publications/2025/02/make-america-healthy-again-commission-aims 4. The White House Issues an Executive Order to Establish a Make America Healthy Again Commission | Covington & Burling LLP, https://www.cov.com/en/news-and-insights/insights/2025/02/the-white-house-issues-an-executive-order-to-establish-a-make-america-healthy-again-commission 5. Make America Healthy Again - Wikipedia, https://en.wikipedia.org/wiki/Make_America_Healthy_Again 6. The-MAHA-Strategy-WH.pdf - The White House, https://www.whitehouse.gov/wp-content/uploads/2025/09/The-MAHA-Strategy-WH.pdf 7. MAHA Commission Unveils Sweeping Strategy to Make Our Children Healthy Again, https://www.hhs.gov/press-room/maha-commission-report-childhood-disease-strategy.html 8. White House Releases Make Our Children Healthy Again Strategy, https://www.cacfp.org/2025/09/09/white-house-releases-make-our-children-healthy-again-strategy/ 9. Federal Update: Trump Administration Releases the Make Our Children Healthy Again Strategy | AMCP.org, https://www.amcp.org/letters-statements-analysis/federal-update-trump-administration-releases-make-our-children-healthy-again-strategy 10. Television food marketing to children revisited: the Federal Trade Commission has the constitutional and statutory authority to regulate - PubMed, https://pubmed.ncbi.nlm.nih.gov/20446988/ 11. White House Issues the “Make Our Children Healthy Again” Strategy Report | Advisories, https://www.arnoldporter.com/en/perspectives/advisories/2025/09/make-our-children-healthy-again-implications-consumer-products-companies 12. White House releases 'Make Our Children Healthy Again' report | AHA News, https://www.aha.org/news/headline/2025-09-09-white-house-releases-make-our-children-healthy-again-report 13. 21 U.S. Code § 348 - Food additives - Law.Cornell.Edu, https://www.law.cornell.edu/uscode/text/21/348 14. The Prescription Drug User Fee Act: History Through the 2007 PDUFA IV Reauthorization - Every CRS Report, https://www.everycrsreport.com/files/20080627_RL33914_d23ea7f2e60b79167c69e2ff075a6d2d8441c534.html 15. Prescription Drug User Fee Act - Wikipedia, https://en.wikipedia.org/wiki/Prescription_Drug_User_Fee_Act 16. The Prescription Drug User Fee Act: Much More Than User Fees - PMC - NIH, https://pmc.ncbi.nlm.nih.gov/articles/PMC8917050/ 17. Prescription Drug User Fee Rates for Fiscal Year 2027 - Federal Register, https://www.federalregister.gov/documents/2026/07/30/2026-15334/prescription-drug-user-fee-rates-for-fiscal-year-2027 18. Fact Sheet: President Donald J. Trump Realigns U.S. Core Childhood Vaccine Recommendations with Best Practices from Peer, Developed Countries - The White House, https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-realigns-u-s-core-childhood-vaccine-recommendations-with-best-practices-from-peer-developed-countries/ 19. IRS releases Health Savings Account limits for 2025 - EY Tax News, https://taxnews.ey.com/news/2024-1169-irs-releases-health-savings-account-limits-for-2025
